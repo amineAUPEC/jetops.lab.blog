@@ -8,12 +8,15 @@ draft: false
 lang: fr
 ---
 
-[Shell Commandes utiles-2024](shell-commandes-utiles-nov-2024.md)  
+# Test manually
 
-[Youtube Gold premium alternatives](yt-gold-ads-premium-alternative-nov-2024.md)  
+[Shell Commandes utiles-2024](2024-11-06-shell-commandes-utiles-nov-2024.md)  
+
+[Youtube Gold premium alternatives](2024-11-06-yt-gold-ads-premium-alternative-nov-2024.md)  
 
 
-[Changer la disposition du clavier via PowerShell](switch-layout-fr-en-avec-powershell-nov-2024.md)  
+[Changer la disposition du clavier via PowerShell](2024-11-06-switch-layout-fr-en-avec-powershell-nov-2024.md)  
+
 
 
 
