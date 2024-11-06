@@ -46,3 +46,7 @@ Commande lié à la commande `ls`
 
 # Sur Powershell
 - Afficher tous les sous-fichiers avec l'extension pdf `gci -recurse "*.pdf*"`
+
+
+[Shell Commandes utiles-2024](shell-commandes-utiles-nov-2024.md)
+[Youtube Gold premium alternatives](yt-gold-ads-premium-alternative-nov-2024.md)
