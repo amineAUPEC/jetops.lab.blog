@@ -7,11 +7,22 @@ date: 2024-11-06 21:33:29
 draft: false 
 lang: fr
 ---
+
+[Shell Commandes utiles-2024](shell-commandes-utiles-nov-2024.md)  
+
+[Youtube Gold premium alternatives](yt-gold-ads-premium-alternative-nov-2024.md)  
+
+
+[Changer la disposition du clavier via PowerShell](switch-layout-fr-en-avec-powershell-nov-2024.md)  
+
+
+
+# Article d'exemple : 
 <!-- # Infos 
 Article_file_name :  shell-commandes-utiles-nov-2024.md
 Article_title:  "Commandes utile en shell  - novembre 2024" -->
 
-# introduction 
+# Introduction 
 Dans cet article nous allons appréhender un lot de commandes de bases utiles sur le mois de novembre 2024. 
 
 # Commandes 
@@ -49,10 +60,3 @@ Commande lié à la commande `ls`
 
 
 
-
-[Shell Commandes utiles-2024](shell-commandes-utiles-nov-2024.md)
-
-[Youtube Gold premium alternatives](yt-gold-ads-premium-alternative-nov-2024.md)
-
-
-[Changer la disposition du clavier via PowerShell](switch-layout-fr-en-avec-powershell-nov-2024.md)
