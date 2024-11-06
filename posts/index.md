@@ -1,17 +1,63 @@
 --- 
-title:  "Commandes utile en shell  - novembre 2024"
-Article_file_name:  "shell-commandes-utiles-nov-2024.md"
+title:  "Index - novembre 2024"
+Article_file_name:  "index-nov-2024.md"
 tags: ["shell", "best-commands", "nov", "nov-2024"]
 description:  "Lots de commandes utiles pour bash sous Linux"
 date: 2024-11-06 21:33:29
 draft: false 
 lang: fr
 ---
+# Test post for each post url and title
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+# Test for each tags 
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+
+# Test post preview
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+
+# Test manually
+
+[Shell Commandes utiles-2024](shell-commandes-utiles-nov-2024.md)  
+
+[Youtube Gold premium alternatives](yt-gold-ads-premium-alternative-nov-2024.md)  
+
+
+[Changer la disposition du clavier via PowerShell](switch-layout-fr-en-avec-powershell-nov-2024.md)  
+
+
+
+# Article d'exemple : 
 <!-- # Infos 
 Article_file_name :  shell-commandes-utiles-nov-2024.md
 Article_title:  "Commandes utile en shell  - novembre 2024" -->
 
-# introduction 
+# Introduction 
 Dans cet article nous allons appréhender un lot de commandes de bases utiles sur le mois de novembre 2024. 
 
 # Commandes 
@@ -46,3 +92,4 @@ Commande lié à la commande `ls`
 
 # Sur Powershell
 - Afficher tous les sous-fichiers avec l'extension pdf `gci -recurse "*.pdf*"`
+

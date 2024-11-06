@@ -6,6 +6,7 @@ description:  "Lots de commandes utiles pour bash sous Linux"
 date: 2024-11-06 21:33:29
 draft: false 
 lang: fr
+layout: post
 ---
 <!-- # Infos 
 Article_file_name :  shell-commandes-utiles-nov-2024.md

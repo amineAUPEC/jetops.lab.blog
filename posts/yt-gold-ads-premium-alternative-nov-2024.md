@@ -6,6 +6,7 @@ description:  "Youtube Gold alternative à Youtube Premium"
 date: 2024-11-06 21:33:11
 draft: false 
 lang: fr
+layout: post
 ---
 
 # Youtube Gold method

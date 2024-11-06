@@ -6,6 +6,7 @@ description:  "Changer la disposition du clavier via PowerShell"
 date: 2024-11-06 21:33:29
 draft: false 
 lang: fr
+layout: post
 ---
 
 # Switch layout fr en avec PowerShell
