@@ -3,6 +3,7 @@ title:  "Commandes utile en shell  - novembre 2024"
 Article_file_name:  "shell-commandes-utiles-nov-2024.md"
 tags: ["shell", "best-commands", "nov", "nov-2024"]
 description:  "Lots de commandes utiles pour bash sous Linux"
+date: 2024-11-06 21:33:29
 draft: false 
 lang: fr
 ---
@@ -30,6 +31,9 @@ Commande lié à la commande `ls`
 
 `rsync -av /data/apps apps` : archive et verbose
 
+## find
+- `find -name "*2024*.pdf"`
+
 # Autres commandes utiles 
 - `tldr`
 - `curl cheat.sh/ls` 
@@ -39,3 +43,6 @@ Commande lié à la commande `ls`
 # Autres Sites utiles
 ## ExplainShell 
 [Explain shell](https://explainshell.com/) vous explique les arguments de chaque commande
+
+# Sur Powershell
+- Afficher tous les sous-fichiers avec l'extension pdf `gci -recurse "*.pdf*"`
