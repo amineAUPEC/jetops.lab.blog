@@ -5,9 +5,8 @@ description: "JetDevOps yet another blog for tech news and random tip"
 github: amineaupec
 markdown: kramdown
 parse_block_html: false
-url: https://amineaupec.github.io/jetops.lab.blog/
-#site: https://amineaupec.github.io/jetops.lab.blog/
-
+url: https://amineaupec.github.io
+baseurl: "/jetops.lab.blog"
 defaults:
   -
     scope:

@@ -25,7 +25,7 @@ go to a random post  [random post](./utilities-jekyll/random)
 {% for post in site.posts %}
 {% unless post.categories contains "now" %}
 
-[{{ post.title }}]({{ post.url }})
+[{{ post.title }}]({{site.baseurl}}{{ post.url }})
 
 {% endunless %}
 {% endfor %}
@@ -39,7 +39,7 @@ go to a random post  [random post](./utilities-jekyll/random)
 
 # Post preview
 
-
+[All post preview](utilities-jekyll/all-post.md)
 
 
 

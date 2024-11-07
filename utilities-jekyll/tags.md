@@ -27,7 +27,7 @@ Back to the [main page](/).
 
 {% for post in tag[1] %}
 
-[{{ post.title }}]({{ post.url }})
+[{{ post.title }}]({{site.baseurl}}{{ post.url }})
 
 {% endfor %}
 

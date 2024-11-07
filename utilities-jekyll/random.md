@@ -27,7 +27,7 @@ if (theme === "dark") {
     [{%- for post in site.posts -%}
     {%- unless post.unlisted -%}
       {%- assign i = i | minus: 1 -%}
-      "{{ site.url }}{{ post.url }}"{%- unless i == 0 -%},{%- endunless -%}
+      "{{ site.url }}{{site.baseurl}}{{ post.url }}"{%- unless i == 0 -%},{%- endunless -%}
     {%- endunless -%}
     {%- endfor -%}];
 
