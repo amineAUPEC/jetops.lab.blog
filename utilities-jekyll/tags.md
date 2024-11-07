@@ -1,6 +1,6 @@
 ---
 title: Tag Page
-permalink: /utilities-page/tags
+permalink: /utilities-jekyll/tags
 ---
 
 <div markdown=1 style="min-height: 100vh;">

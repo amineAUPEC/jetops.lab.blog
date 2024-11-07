@@ -1,5 +1,5 @@
 ---
-permalink: /utilities-page/random
+permalink: /utilities-jekyll/random
 --- 
 
 <script>

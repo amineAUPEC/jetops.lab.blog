@@ -30,7 +30,29 @@ go to a random post  [random post](./utilities-jekyll/random)
 {% endunless %}
 {% endfor %}
 
-# Test post for each post url and title
+
+
+# each tags 
+
+[Each tags Preview](utilities-jekyll/for-each-tags.md)
+
+
+# Post preview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Test post for each post url and title
 
 
 <ul>
@@ -39,26 +61,4 @@ go to a random post  [random post](./utilities-jekyll/random)
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-</ul>
-
-# Test for each tags 
-
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
-
-# Test post preview
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+</ul> -->

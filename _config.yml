@@ -6,6 +6,8 @@ github: amineaupec
 markdown: kramdown
 parse_block_html: false
 url: https://amineaupec.github.io/jetops.lab.blog/
+#site: https://amineaupec.github.io/jetops.lab.blog/
+
 defaults:
   -
     scope:
