@@ -10,7 +10,9 @@ layout: post
 ---
 
 
-Astuce pour Boursorama 
-Pour acheter des cartes-cadeaux de magasins, cinémas 8.5 la place ou même Neoness 300E dont 50E de dossier
+## Astuce pour Boursorama : 
 
-50E - 12% chez Marionnaud : -6E
+
+- Pour acheter des cartes-cadeaux de magasins, cinémas 8.5 la place ou même Neoness 300E dont 50E de dossier
+
+- 50E - 12% chez Marionnaud : -6E
