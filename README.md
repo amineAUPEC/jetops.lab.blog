@@ -5,8 +5,8 @@
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <!-- <a href="./docs">Articles</a> -->
-  <a href="./posts">Articles :)</a>
-  <a href="./draft">Articles BETA</a>
+  <a href="./#blog-posts">Articles :)</a>
+  <a href="./#draft-preview">Articles BETA</a>
   <a href="./utilities-page/contact">Contact</a>
   <a href="./utilities-page/about.md">About</a>
 </div>
@@ -44,9 +44,9 @@ go to a random post  [random post](./utilities-jekyll/random)
 
 
 
+# Draft Preview
 
-
-
+[Draft Preview](utilities-jekyll/display_draft.md)
 
 
 
