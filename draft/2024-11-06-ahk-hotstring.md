@@ -16,7 +16,7 @@ A l'aide de AutoHotkey il est possible de taper une série de charactères, hots
 
 - Vous pouvez mettre des phrases longues ou même votre signature éléctronique de courrier...
 
-- Voici le contenu du fichier
+Voici le contenu du fichier :
 - **hotstrings-ahk.ahk**
 ```dotnetcli
 ::@@:: mail@sfr.fr
