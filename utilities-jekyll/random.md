@@ -14,10 +14,6 @@ if (theme === "dark") {
 
 </script>
 
-{% comment %}
-Use liquid to get an the number of posts in the site
-{% endcomment %}
-
 {%- assign i = 0 -%}
 {%- for post in site.posts -%}
     {%- assign i = i | plus: 1 -%}

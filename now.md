@@ -1,6 +1,6 @@
 ---
 title: Now Page
-description: "This is what I would be doing now if this were a real site"
+description: "The now page"
 nowPage: true
 permalink: /now
 ---
