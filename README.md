@@ -14,11 +14,6 @@
 
 Jetops blog for articles and tips
 
-## Random post 
-go to a random post  [random post](./utilities-jekyll/random)
-
-## Search by tags
-[Search by tags](./utilities-jekyll/tags)
 
 ## Blog Posts 
 
@@ -30,11 +25,16 @@ go to a random post  [random post](./utilities-jekyll/random)
 {% endunless %}
 {% endfor %}
 
+## Random post 
+go to a random post  [random post](./utilities-jekyll/random)
+
+## Search by tags
+[Search by tags](./utilities-jekyll/tags)
 
 
 # each tags 
 
-[Each tags Preview](utilities-jekyll/for-each-tags.md)
+[All tags Preview](utilities-jekyll/for-each-tags.md)
 
 
 # Post preview

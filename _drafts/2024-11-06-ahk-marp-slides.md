@@ -6,36 +6,44 @@ style: |
   h1 {
     color: #E38C30;
   }
+title:  "Changer de langue en PowerShell  - novembre 2024"
+Article_file_name:  "switch-layout-fr-en-avec-powershell-nov-2024.md"
+tags: ["AHK", "marp", "keyboard layout", "disposition du clavier", "nov", "nov-2024"]
+description:  "AHK marp slides"
+date: 2024-11-06 21:33:29
+draft: true 
+lang: fr
+layout: post
 ---
 
 
 # Présentation de la solution AHK 
 Automatisation - Macro - abréviation - raccourci clavier
 
-*Créez facilement des scripts petits ou complexes pour toutes sortes de tâches telles que : remplissage de formulaires, clics automatiques, macros..*
-https://www.autohotkey.com/ 
+*Créez facilement des scripts petits ou complexes pour toutes sortes de tâches telles que : remplissage de formulaires, clics automatiques, macros..*  
+https://www.autohotkey.com/   
 ![Autohotkey dashboard](image-5.png)
 
 
 ---
 # Sommaire
-**I. Pourquoi l'utiliser ?** 
-    **--> Qu'est-ce qu'un macro ?**
-**II. a. Use Case pour la console :**
-    - **Autohotkey : hotkey avec GUI**
-    - **Explications du code**
-    - **En quoi ça nous simplifie la vie :**
-**II. b. Bugs connus et autre subtilité**
-    - **Disposition du clavier** 
-    - **Présentation des méthodes d'exécution**
-    - **Astuces exécuter au démarrage**
+**I. Pourquoi l'utiliser ?**   
+    **--> Qu'est-ce qu'un macro ?**  
+**II. a. Use Case pour la console :**  
+    - **Autohotkey : hotkey avec GUI**  
+    - **Explications du code**  
+    - **En quoi ça nous simplifie la vie :**  
+**II. b. Bugs connus et autre subtilité**  
+    - **Disposition du clavier**   
+    - **Présentation des méthodes d'exécution**  
+    - **Astuces exécuter au démarrage**  
 
 ---
 # Sommaire 2/2
-**III. AutoHotKey hotstring**
-**Tests Démo**
-**IV. Conclusion**
-**FIN**
+**III. AutoHotKey hotstring**  
+**Tests Démo**  
+**IV. Conclusion**  
+**FIN**  
 
 
 ---
@@ -49,7 +57,7 @@ Notre cas d'usage à la ZOR5G : *Console copier-coller sur vos équipements à t
 ---
 ## Qu'est-ce qu'un macro ? 
 **Un macro est automatisation** : Une macro est une série de commandes et d'instructions que vous regroupez au sein d'une même commande 
-afin d'exécuter automatiquement une tâche. Pour gagner du temps sur les tâches que vous effectuez souvent, regroupez les étapes dans une macro. *Source : Microsoft*
+afin d'exécuter automatiquement une tâche. Pour gagner du temps sur les tâches que vous effectuez souvent, regroupez les étapes dans une macro. *Source : Microsoft*  
 
 
 
@@ -61,7 +69,7 @@ afin d'exécuter automatiquement une tâche. Pour gagner du temps sur les tâche
 - **Dell Idrac** -> *fr firefox*
 ---
 # Autohotkey : hotkey avec GUI 
-Un hotkey est un raccourci clavier permettant de 
+Un hotkey est un raccourci clavier permettant de   
 
 ![Interface de la solution pour taper sur la Console](image-3.png)
 
@@ -105,7 +113,7 @@ return
 ---
 
 # II. b. Bugs connus et autre subtilité 
-La séquence de caractère : "[aas" essaiera de transformer en "[aas]"
+La séquence de caractère : "[aas" essaiera de transformer en "[aas]"  
 
 - --> Du coup effacer le dernier caractère ou adapter le script en conséquence 
 
@@ -137,7 +145,7 @@ Source : [stackoverflow_add-international-english-keyboard](https://stackoverflo
 
 ---
 # Présentation des méthodes d'exécution
-Ai-je besoin de télécharger AHK ou juste le fichier exe compiler ?
+Ai-je besoin de télécharger AHK ou juste le fichier exe compiler ?   
 
 - Si vous souhaitez modifier le script .ahk -> Alors vous devez le télécharger 
 - || Sinon le .exe contient une version portable ne nécessitant pas de droit administrateur 
@@ -149,9 +157,9 @@ ou **Compile script**
 
 ---
 ## **Présentation des méthodes d'exécution 3/3**
-Les scripts AHK apparaissent dans votre systray  notification
+Les scripts AHK apparaissent dans votre systray  notification 
 
-"Le systray est la zone d'icônes de la barre des tâches de Windows à gauche de l'horloge, dans le coin bas droit de l'écran. "
+"Le systray est la zone d'icônes de la barre des tâches de Windows à gauche de l'horloge, dans le coin bas droit de l'écran. "  
 
 ![Systray Running AHK](image.png)
 
@@ -168,7 +176,7 @@ Les scripts AHK apparaissent dans votre systray  notification
 # III. AutoHotKey hotstring : 
 #### **Le meilleur pour la fin**
 
-Les hotstring sont des sortes d'abréviation sur lequel on peut mettre par exemple son mail, uid, des messages du quotidien, IP ou des gros pavés de texte.
+Les hotstring sont des sortes d'abréviation sur lequel on peut mettre par exemple son mail, uid, des messages du quotidien, IP ou des gros pavés de texte.  
     
     hcv -> Hello ca va ? 
     uid -> adz4848
@@ -194,7 +202,7 @@ Contenu du fichier : *mes-hotstring.ahk* :
 
 ---
 ### Keyboard case | Casse du clavier
-Attention à la casse si vous avez le verrouillage CAPS LOCK des effets indésirables peuvent se produire. -> voir la démo si : en CAPS LOCK actif => adz4848 sinon en minuscule/CAPS LOCK désactivé => adz4848
+Attention à la casse si vous avez le verrouillage CAPS LOCK des effets indésirables peuvent se produire. -> voir la démo si : en CAPS LOCK actif => adz4848 sinon en minuscule/CAPS LOCK désactivé => adz4848  
 
 ---
 
@@ -204,12 +212,13 @@ ls -ltr && systemctl status sshd
 
 ---
 # IV. Conclusion
-Autohotkey est un outil puissant permettant le remplissage de tâches quotidienne à travers les abréviations *Hotstring*, ou via des raccourcis claviers *Hotkey*. 
-Cet outil permet de copier-coller en console pour les ingénieurs Infra. 
-Cet outil comporte des subtilités et dépend de la configuration du clavier physique.
-Il permet de scripter des tâches complexes ou simples fréquentes. 
-Sinon utiliser via keepass.
-On peut l'exécuter au démarrage
+Autohotkey est un outil puissant permettant le remplissage de tâches quotidienne à travers les abréviations *Hotstring*, ou via des raccourcis claviers *Hotkey*.   
+Cet outil permet de copier-coller en console pour les ingénieurs Infra.   
+Cet outil comporte des subtilités et dépend de la configuration du clavier physique.  
+Il permet de scripter des tâches complexes ou simples fréquentes.   
+Sinon utiliser via keepass.  
+On peut l'exécuter au démarrage.  
+
 ---
 # FIN
 FIN :)
@@ -217,6 +226,6 @@ FIN :)
 
 Avez-vous des questions ?
 Merci
-Cette présentation est en MD *Markdown* via Marp 
+Cette présentation est en MD *Markdown* via Marp.   
 J'en fais une dessus ...?
 
