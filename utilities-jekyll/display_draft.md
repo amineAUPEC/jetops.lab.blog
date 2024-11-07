@@ -1,5 +1,5 @@
 ## Drafts
-{% for post in site.posts %}
+{% for post in site.drafts %}
   {% if post.draft %}
     ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
     {{ post.description }}
