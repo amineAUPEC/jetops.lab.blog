@@ -1,0 +1,21 @@
+title: "JetDevOps yet another blog for tech news and random tips" 
+author: AmineAupec
+email: "amine.abdoul-azid@outlook.fr"
+description: "JetDevOps yet another blog for tech news and random tip"
+github: amineaupec
+markdown: kramdown
+parse_block_html: false
+url: https://amineaupec.github.io/jetops.lab.blog/
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-feed
+
+feed: 
+  categories:
+    - now

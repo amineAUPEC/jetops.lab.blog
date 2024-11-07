@@ -6,6 +6,7 @@ description:  "Contact page"
 date: 2024-11-06 21:33:29
 draft: false 
 lang: fr
+permalink: /utilities-page/contact
 ---
 
 

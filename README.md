@@ -6,14 +6,29 @@
   <a class="active" href="#home">Home</a>
   <!-- <a href="./docs">Articles</a> -->
   <a href="./posts">Articles :)</a>
-  <a href="./utilities-page/contact.md">Contact</a>
+  <a href="./draft">Articles BETA</a>
+  <a href="./utilities-page/contact">Contact</a>
   <a href="./utilities-page/about.md">About</a>
 </div>
 
 
 Jetops blog for articles and tips
 
+## Random post 
+go to a random post  [random post](./utilities-jekyll/random)
 
+## Search by tags
+[Search by tags](./utilities-jekyll/tags)
+
+## Blog Posts 
+
+{% for post in site.posts %}
+{% unless post.categories contains "now" %}
+
+[{{ post.title }}]({{ post.url }})
+
+{% endunless %}
+{% endfor %}
 
 # Test post for each post url and title
 
