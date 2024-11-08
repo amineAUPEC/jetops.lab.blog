@@ -7,6 +7,7 @@ date: 2024-11-06 21:33:29
 draft: false 
 lang: fr
 layout: post
+github_update: yes
 ---
 
 A l'aide de AutoHotkey il est possible de taper une série de charactères, hotstrings suivant de la touche entrée ou d'espace pour taper son adresse mail professionnel ou personnel ou même votre mdp 
@@ -22,4 +23,10 @@ Voici le contenu du fichier :
 ::@@:: mail@sfr.fr
 ::a@:: mail@sii.fr
 :O:pass::1234SuperSecure
+::jesuis::
+{
+  Send Je suis Spiderman
+  Send Je recherche etc
+  Send Merci etc
+}
 ```
