@@ -22,13 +22,14 @@ j'aurais aimé savoir utiliser comme outils :
     - repl.it pour tester son code en mode playground 
     - vscode, sublimetext, gedit, notepad++ en tant qu'éditeur de code
     - notion, obsidian 
-    - postman, bruno, 
+    - postman, bruno
     - popsql 
     - raindrop.io pour la gestion des favoris, la veille technologique
+    
 
     - les raccourcis claviers 
     - powertoys
 - j'aurais aimé savoir
     - clé privé, PKI, smartcard
-    - token sso single sign on
-- enregistreur décran
+    - token sso : *single sign-on*
+- enregistreur d'écran
