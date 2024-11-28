@@ -10,7 +10,7 @@ layout: post
 ---
 
 
-j'aurais aimé savoir utiliser comme outils : 
+- j'aurais aimé savoir utiliser comme outils : 
     - packer et vagrant pour la virtualisation et l'infra as code
     - libvirt / KVM / Proxmox pour
     - cockpit pour l'administration
