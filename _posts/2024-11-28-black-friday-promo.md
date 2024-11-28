@@ -57,3 +57,11 @@ layout: post
 
 
 - https://www.dealabs.com/bons-plans/apple-portable-macbook-air-2932358 (24 GB ram)
+
+
+
+
+
+- https://www.dealabs.com/bons-plans/lecteur-multimedia-nvidia-shield-tv-pro-4k-hdr-tegra-x1-ram-3-go-16-go-android-tv-vendeur-boulanger-2934526 
+- https://www.dealabs.com/bons-plans/pc-portable-gaming-156-medion-erazer-deputy-p40-qhd-ips-144-hz-i5-12450h-rtx-4060-130w-ram-16go-ssd-512go-win-11-1988eur-fid-2929140
+- https://www.dealabs.com/bons-plans/raspberry-pi-5-b-2-gb-2931966
