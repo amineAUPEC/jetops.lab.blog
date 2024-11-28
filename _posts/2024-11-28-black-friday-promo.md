@@ -3,7 +3,7 @@ title:  "Promo du black friday le 28   - novembre 2024"
 Article_file_name:  "2024-11-28-black-friday-promo.md"
 tags: ["promo", "blackfriday", "nov", "nov-2024"]
 description:  "Promo du black friday"
-date: 2024-11-28 21:33:29
+date: 2024-11-28 18:33:29
 draft: false 
 lang: fr
 layout: post
