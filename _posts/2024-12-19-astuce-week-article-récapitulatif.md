@@ -761,17 +761,17 @@ calibre ebook reader
 - grype : scan like trivy containers
 
 - image tools 
-- https://overlay.imageonline.co/
-- https://deepai.org/machine-learning-model/text2img
+- [overlay imageonline](https://overlay.imageonline.co/)
+- [deepai text2img](https://deepai.org/machine-learning-model/text2img)
 
 
 
-- https://www.naps2.com/ ocr tools from pdf with ai advanced md export 
+- [naps2](https://www.naps2.com/) ocr tools from pdf with ai advanced md export 
 
-- https://www.handwritingocr.com/ -> 12/100 page 0.12/per page  with api ocr tools  with ai advanced md export 
+- [handwriting ocr](https://www.handwritingocr.com/) -> 12/100 page 0.12/per page  with api ocr tools  with ai advanced md export 
 
 
-- openobserve -> splunk vs ELK -- https://openobserve.ai/ @SIEM @Big_data @observability
+- openobserve -> splunk vs ELK -- [openobserve](https://openobserve.ai/) @SIEM @Big_data @observability
 - forgejo -> forge logiciel pour git en go
   - concurrent de gitea, terteisegit, git from ui, 
 
@@ -811,7 +811,7 @@ calibre ebook reader
 ----------
 
  
- # project N°3 reddit
+#### project N°3 reddit
 
 reddit extractor username of the creator r/ reddit community name  of a single post
 
@@ -822,19 +822,20 @@ faut vraiment que je regarde apify
 
 [Reddit URS](https://github.com/JosephLai241/URS)
 
-Python Reddit API Wrapper
-python pip package
+Python Reddit API Wrapper  
+python pip package  
 
-rich
-poetry
-wordclouds
+rich  
+poetry  
+wordclouds  
 
 
 ----------
 
-[Klap | Turn videos into viral shorts](https://klap.app/) **Create TikToks, Reels, Shorts from your long videos in just one click.**
+[Klap Turn videos into viral shorts](https://klap.app/)   
+**Create TikToks, Reels, Shorts from your long videos in just one click.**
 
-https://pictory.ai/ai-youtube-shorts-generator?el=2074&htrafficsource=featurepage
+[pictory.ai YT shorts generator](https://pictory.ai/ai-youtube-shorts-generator?el=2074&htrafficsource=featurepage)
 
 
 - explorer automatisation low-code
@@ -859,16 +860,16 @@ docker-compose up -d
 ----------
 
 [YT-DLP Error: "Sign in to confirm you’re not a bot. This helps protect our community". Proxy recommendation : r/youtubedl](https://www.reddit.com/r/youtubedl/comments/1e6bzu4/ytdlp_error_sign_in_to_confirm_youre_not_a_bot/) 
-risk cookie banned   
+----> risk cookie banned   
 
 ----------
 
 
-How to make Al comic page under few minutes I REUPLOAD u/Comicscape YT 
-HOW TO create a comic BOOK • • by step Guideline With FREE Al Tool AI Lockup YT
+- How to make Al comic page under few minutes I REUPLOAD u/Comicscape YT
+- HOW TO create a comic BOOK • • by step Guideline With FREE Al Tool AI Lockup YT
 
 
 
-PYTHON CODE TO CONVERT IMAGE TO CARTOON INSTA u/sairprogramming
+- PYTHON CODE TO CONVERT IMAGE TO CARTOON INSTA u/sairprogramming
 
 
