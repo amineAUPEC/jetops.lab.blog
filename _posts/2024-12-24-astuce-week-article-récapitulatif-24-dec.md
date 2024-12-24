@@ -1,9 +1,9 @@
 --- 
 title:  "Astuce de la semaine - article de la semaine - Week 24 décembre - Décembre 2024 - Weekrecap"
-Article_file_name:  "2024-12-24-astuce-week-article-récapitulatif.md"
+Article_file_name:  "2024-12-24-astuce-week-article-récapitulatif-24-dec.md"
 tags: ["week-recap", "dossier", "astuce", "tools", "virtu", "dec", "dec-2024"]
 description:  "Astuce de la semaine du 24 décembre"
-date: 2024-12-24 19:33:29
+date: 2024-12-24 18:33:29
 draft: false 
 lang: fr
 layout: post
