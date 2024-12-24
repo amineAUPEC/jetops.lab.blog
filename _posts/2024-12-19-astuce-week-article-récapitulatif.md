@@ -50,10 +50,10 @@ front office.
 
 
 
-fat VS thin client  pour accéder au frontend 
+fat VS thin client  | pour accéder au frontend 
 
 
-iaas paas saas faas  infra platform software or function as a service
+iaas | paas | saas  | faas | infra platform software or function as a service
 
 ----------
 event-driven executions 
@@ -173,7 +173,8 @@ list all domains domain services
 
 ----------
 #### Outils web  : ascii/figlet 
-[figlet-generator](https://doodlenerd.com/web-tool/figlet-generator)
+[figlet-generator](https://doodlenerd.com/web-tool/figlet-generator)  
+
 [patorjk.com ASCII ART](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=CDN%0A)
 
 ----------
