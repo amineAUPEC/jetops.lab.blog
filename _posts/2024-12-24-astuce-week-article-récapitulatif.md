@@ -11,7 +11,7 @@ layout: post
 
 
 #### liens tech de la semaine du 24-12-2024
-Dans cette aventure c'et parti pour de soutils, vidéos, de la reconnaissance de caractères, des reddits, du tiling-window, du bash et des prévisions...  
+Dans cette aventure c'est parti pour des outils, vidéos, de la reconnaissance de caractères, des reddits, du tiling-window, du bash et des prévisions...  
 
 ----------
 
