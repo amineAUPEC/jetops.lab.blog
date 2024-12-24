@@ -740,3 +740,135 @@ infomniak kdrive
 calibre ebook reader   
 
 ----------
+
+#### autres tech 20-12-2024
+
+[Slug Generator - WebUtility.io](https://webutility.io/slug-generator) est un outil permettant de générer un slug à partir d’un article copier-coller
+
+[How much does it cost to upload an app in the Google Play Store? - Quora](https://www.quora.com/How-much-does-it-cost-to-upload-an-app-in-the-Google-Play-Store)
+
+- pricing of stores :
+    - Android Google Play Store : €24.06 + €0.96 : That’s for Lifetime not on yearly basis. €24.06 is fees while €0.96 is for validating your credit card
+    - iOs App Store on the other hand charges €95.26 / Year for Individual Accounts and €191.49/year for Corporate accounts
+    - According to  u/VarunJain
+
+
+
+
+
+- `ngrok http http://localhost:8080` ngrok tools 
+
+- grype : scan like trivy containers
+
+- image tools 
+- https://overlay.imageonline.co/
+- https://deepai.org/machine-learning-model/text2img
+
+
+
+- https://www.naps2.com/ ocr tools from pdf with ai advanced md export 
+
+- https://www.handwritingocr.com/ -> 12/100 page 0.12/per page  with api ocr tools  with ai advanced md export 
+
+
+- openobserve -> splunk vs ELK -- https://openobserve.ai/ @SIEM @Big_data @observability
+- forgejo -> forge logiciel pour git en go
+  - concurrent de gitea, terteisegit, git from ui, 
+
+- "L'interface IPMI (Intelligent Platform Management Interface) est une interface normalisée de gestion du matériel à base de messages. Au coeur de l'interface IPMI se trouve une puce matérielle appelée contrôleur de gestion de la carte mère (Baseboard Management Controller, BMC) ou contrôleur de gestion (Management Controller, MC)." source : IBM 
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+
+
+
+<div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+  <div class="card-header">IT Glossary</div>
+  <div class="card-body">
+    <h5 class="card-title">IPMI</h5>
+    <p class="card-text">L'interface IPMI (Intelligent Platform Management Interface) est une interface normalisée de gestion du matériel à base de messages. Au coeur de l'interface IPMI se trouve une puce matérielle appelée contrôleur de gestion de la carte mère (Baseboard Management Controller, BMC) ou contrôleur de gestion (Management Controller, MC). Source : IBM</p>
+  </div>
+</div>
+
+
+----------
+
+[W3Schools Tryit Editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default_default)
+
+[Cards · Bootstrap](https://getbootstrap.com/docs/4.1/components/card/#example)
+
+
+----------
+
+
+- listes de magazines
+   - magazine linux pratique
+   - 01net
+   - livres pour les nuls
+ 
+ 
+----------
+
+ 
+ # project N°3 reddit
+
+reddit extractor username of the creator r/ reddit community name  of a single post
+
+some answer and the most voted answer
+
+faut vraiment que je regarde apify
+[apify reddit-scr](https://apify.com/trudax/reddit-scraper)
+
+[Reddit URS](https://github.com/JosephLai241/URS)
+
+Python Reddit API Wrapper
+python pip package
+
+rich
+poetry
+wordclouds
+
+
+----------
+
+[Klap | Turn videos into viral shorts](https://klap.app/) **Create TikToks, Reels, Shorts from your long videos in just one click.**
+
+https://pictory.ai/ai-youtube-shorts-generator?el=2074&htrafficsource=featurepage
+
+
+- explorer automatisation low-code
+    
+    [How download video from Youtube cannel? - How To - Make Community](https://community.make.com/t/how-download-video-from-youtube-cannel/53553/6)
+
+
+----------
+
+
+
+[go - `docker-compose up` times out with UnixHTTPConnectionPool - Stack Overflow](https://stackoverflow.com/questions/42230536/docker-compose-up-times-out-with-unixhttpconnectionpool)
+
+```html
+docker-compose down -v 
+export DOCKER_CLIENT_TIMEOUT=120
+export COMPOSE_HTTP_TIMEOUT=120
+
+docker-compose up -d 
+```
+
+----------
+
+[YT-DLP Error: "Sign in to confirm you’re not a bot. This helps protect our community". Proxy recommendation : r/youtubedl](https://www.reddit.com/r/youtubedl/comments/1e6bzu4/ytdlp_error_sign_in_to_confirm_youre_not_a_bot/) 
+risk cookie banned   
+
+----------
+
+
+How to make Al comic page under few minutes I REUPLOAD u/Comicscape YT 
+HOW TO create a comic BOOK • • by step Guideline With FREE Al Tool AI Lockup YT
+
+
+
+PYTHON CODE TO CONVERT IMAGE TO CARTOON INSTA u/sairprogramming
+
+
