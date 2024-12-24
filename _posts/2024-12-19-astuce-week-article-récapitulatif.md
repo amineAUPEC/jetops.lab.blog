@@ -189,7 +189,7 @@ then use it with `vcdxrip -vpC` verbose progress from cdrom
 
 #### Learn linux websites
 @linux @websites  
-linuxfromscratch.org/bifs/view/stable-systemd  
+[linuxfromscratch bifs systemd](linuxfromscratch.org/bifs/view/stable-systemd)  
 
 
 
@@ -287,7 +287,8 @@ On peut réinstaller un PC en désactivant le  secure boot à l'aide du clé boo
 ----------
 
 #### ROM CUSTOM : ROOTING 
-@rom-custom 
+@rom-custom   
+
 installing pixel experience on veux 
 
 [get.pixelexperience.org](get.pixelexperience.org)
@@ -317,7 +318,7 @@ purposetechai ->purpose ai demo gdocs
 ----------
 #### Vulgarisation
 @vulgarisateur  
-Julien bobroff enseignant vulgarisateur physiscien paris-saclay  
+Julien bobroff | Enseignant vulgarisateur physicien Paris-Saclay  
 
 ----------
 #### Playground
@@ -632,12 +633,13 @@ soupsavvy `pip install soupsavvy`
 
 simple way   
 
+```python
 from soupsavvy import ClassSelector, PatternSelector, TypeSelector  
-
+```
 
 
 readthedocs.io  
-github.com/sewcio543/soupsavvy  
+[GitHub soupsavvy](github.com/sewcio543/soupsavvy)  
 r/webscraping  
 
 ----------
