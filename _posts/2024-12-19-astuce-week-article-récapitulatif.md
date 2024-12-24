@@ -24,7 +24,7 @@ _                       _
   \___| |_|  \___/   \__,_|  \__,_|
 ```
 
-vertical | horizontal | diagonal **scaling** -> *vertical* on rajoute des ressources aux machines existantes , *horizontal* on rajoute les même ressources, plus de machines, *diagonal* un mix des deux
+vertical | horizontal | diagonal | **scaling** -> *vertical* on rajoute des ressources aux machines existantes , *horizontal* on rajoute les même ressources, plus de machines, *diagonal* un mix des deux
 
 
 cloud privé | public | hybride -> 
@@ -449,6 +449,7 @@ u/thecanonicalmg
 source : reddit  
 
 ----------
+
 #### Sideproject
 @sideproject  
 
@@ -458,7 +459,9 @@ u/long-report423
 
 r/sideproject  
 ![Building...](https://plus.unsplash.com/premium_photo-1721460167419-2d0316b72ffb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 ----------
+
 @sideproject  
 r/sideproject  
 made a simple + affordable social media scheduler   
@@ -467,6 +470,7 @@ revenue 300/month and 30 mins/day
 
 
 ----------
+
 @sideproject @generation @ai-tools @saas @businessable   
 room enhance rool take a photo of a messy room 
 use the tool  
@@ -682,22 +686,28 @@ title number of sales review images
 @lifestyle @culture  
 vocalzones throat pastilles 24  help keep a clear voices  
 
+![vocalzones](https://m.media-amazon.com/images/I/71WdH0LT14L.jpg)
+
 ----------
+
 @culture  
 camaieu cand gifi hallechaussure ; géant casino ; go sport -> reprise par d'autres personnes   
 
 
 ----------
+
 @culture @fun-fact  
 poisson-lapin avec une queue tronquée   
 
 ----------
+
 @network @diagram @culture @funfact  
 network diagram for north indian extended families source wikibooks.org   
 jija mama papa ma   
 source spn mobile  
 
 ----------
+
 @funfact @fakebutawesome  
 lego excel 31 october   
 [lego excel](https://www.instagram.com/youraveragefinancebro/p/C1K0D2kvVgV)  
