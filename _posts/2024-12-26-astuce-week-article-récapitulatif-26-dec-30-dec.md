@@ -120,14 +120,14 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
   [Jekyll cheat sheet · Web Dev Topics · Learn the Web](https://learntheweb.courses/topics/jekyll-cheat-sheet/)
 <div class="terminal-loader">
   <div class="terminal-header">
-    <div class="terminal-title">Status</div>
+    <div class="terminal-title">Learn Web</div>
     <div class="terminal-controls">
       <div class="control close"></div>
       <div class="control minimize"></div>
       <div class="control maximize"></div>
     </div>
   </div>
-  <div class="text">Learn the web...</div>
+  <div class="text">Learn web...</div>
 </div>
     
 ###  Jekyll talk  and to implement to this portfolio
@@ -152,14 +152,14 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
     
   [Introduction - Ship](https://ship.paralect.com/docs/introduction) Boilerplate  Full-Stack Node.js 
   
-  [Best SaaS Boilerplates, Templates & Starter Kits | BoilerplateHub](https://boilerplatehub.com/) including some free template 
+  [Best SaaS Boilerplates, Templates & Starter Kits BoilerplateHub](https://boilerplatehub.com/) including some free template 
     
 
 ### Google sheets manipulation
     
-  [Google Sheets API, connect Google Sheet with your site. Also works with Excel. | sheet2api](https://sheet2api.com/?ref=boilerplatehub)
+  [Google Sheets API, connect Google Sheet with your site. Also works with Excel.  sheet2api](https://sheet2api.com/?ref=boilerplatehub)
   
-  [How to create an app | Google AppSheet](https://about.appsheet.com/how-to-create-an-app/) Appsheet by Google deploy fast like powerapps: **Create apps your way: from AI-assistance to custom builds from scratch.**
+  [How to create an app Google AppSheet](https://about.appsheet.com/how-to-create-an-app/) Appsheet by Google deploy fast like powerapps: **Create apps your way: from AI-assistance to custom builds from scratch.**
   
 
 ### reddit actus
@@ -183,12 +183,12 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
       [booguide.space](https://www.booguide.space/)
       
   
-  https://errors-man.vercel.app/
+  [errors-man vercel.app](https://errors-man.vercel.app/)
   
-  https://www.reddit.com/r/SideProject/s/iA4ZnCk0tW qoodle ai assistant search discovery
+  [reddit sideproject qoodle](https://www.reddit.com/r/SideProject/s/iA4ZnCk0tW) qoodle ai assistant search discovery
   
   - [Automatically ApplyHero - Postuler à des emplois en utilisant l'IA : r/SideProject](https://www.reddit.com/r/SideProject/comments/1hmlu46/automatically_applyhero_apply_to_jobs_using_ai/?share_id=PPeE-K57kZvvCN2bdAODU&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=3)
-      - [Automatically Apply to Jobs | Apply Hero AI](https://www.applyhero.ai/?ref=futuretools.io)
+      - [Automatically Apply to Jobs  Apply Hero AI](https://www.applyhero.ai/?ref=futuretools.io)
   - [Quelles applications de productivité utilisez-vous en 2025 ? : r/ProductivityApps](https://www.reddit.com/r/ProductivityApps/comments/1hnd5yx/what_productivity_apps_are_you_using_in_2025/?share_id=m2kiibLIxX2Mxndt4qH9s&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=3)
       
       [Flowkeeper](https://flowkeeper.org/)
@@ -210,6 +210,15 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
           [Pestle](https://apps.apple.com/us/app/pestle-recipe-manager/id1574776971) OU [Crouton](https://apps.apple.com/app/id1461650987): gestionnaire de recettes/planificateur de repas
           
           [HomeTasker](https://apps.apple.com/app/id1604578415): planning et rappel de nettoyage et de tâches ménagères
+
+```bash
+                __     __   _   __ 
+  ____ ___  ___/ / ___/ /  (_) / /_
+ / __// -_)/ _  / / _  /  / / / __/
+/_/   \__/ \_,_/  \_,_/  /_/  \__/ 
+                                   
+```
+
             
 ### youtube videos
 #### Youtube videos creation automation workflows
@@ -217,7 +226,7 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
   [I Built a Low Code n8n Content to Video Automation - YouTube](https://www.youtube.com/watch?v=XaKybLDUlLk)
         
 #### Youtube drag and drop
-  - [How To Create Drag & Drop Using HTML CSS And JavaScript | Drag And Drop In JavaScript](https://www.youtube.com/watch?v=4AHot187Lj0)
+  - [How To Create Drag & Drop Using HTML CSS And JavaScript Drag And Drop In JavaScript](https://www.youtube.com/watch?v=4AHot187Lj0)
             
       [GreatStack is Making Learning Videos](https://buymeacoffee.com/easytutorials)
             
@@ -226,14 +235,12 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
   - CSV manipulations
       - SQL csv
       - CSV add with sed value
-  - store secret as video just for the fun publicly on Youtube just for proof of Concept
-  - il faudrait mettre en ligne tous les sous-titres par exemple du JT
-  a l'aide d'un QR code ou d'un short link
-  - créer des désassembleur car ce type d’outil sont souvent coûteux
-  - appli permettant de se féliciter pour stimuler la dopamine et / ou recommander de la musique pour se changer d’idée avec `win10toast`
-#### prochainement
-  - project
-      
-      project musicreward
-      votreimmobilier comparateur : centraliser et comparer les prix des biens immobiliers
-      drivehub : centraliser les drives de magasins et comparer les prix et multi-sélectionner les produits
+  - Store secret as video just for the fun publicly on Youtube just for proof of Concept
+  - Il faudrait mettre en ligne tous les sous-titres par exemple du JT *à l'aide d'un QR code ou d'un short link*
+  - Créer des désassembleur car ce type d’outil sont souvent coûteux
+  - Appli permettant de se féliciter pour stimuler la dopamine et / ou recommander de la musique pour se changer d’idée avec `win10toast`
+#### Prochainement
+- Project 
+  - Project musicreward
+  - Votreimmobilier comparateur : centraliser et comparer les prix des biens immobiliers
+  - Drivehub : centraliser les drives de magasins et comparer les prix et multi-sélectionner les produits
