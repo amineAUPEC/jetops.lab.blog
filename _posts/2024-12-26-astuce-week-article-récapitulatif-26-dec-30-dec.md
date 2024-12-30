@@ -108,7 +108,7 @@ layout: post
 
 
 #### liens tech de la semaine du 26-12-2024
-Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotneed, des boilerplate, des vidéos YT, Reddit
+Dans cet article on retrouvera les articles de **learntheweb, Jekyll, youmightnotneed, des boilerplate, des vidéos YT, Reddit**
 
 ----------
 
@@ -140,7 +140,20 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
   
   [Create Jekyll API - Help - Jekyll Talk](https://talk.jekyllrb.com/t/create-jekyll-api/937/6)
 
- ----------
+<div class="terminal-loader">
+  <div class="terminal-header">
+    <div class="terminal-title">Learn Jekyll</div>
+    <div class="terminal-controls">
+      <div class="control close"></div>
+      <div class="control minimize"></div>
+      <div class="control maximize"></div>
+    </div>
+  </div>
+  <div class="text">Jekyll :)</div>
+</div>
+
+
+----------
    
 
 ### [youmightnotneed.co](http://youmightnotneed.co/) product hunt like apps
@@ -194,9 +207,9 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
       [booguide.space](https://www.booguide.space/)
       
   
-  [errors-man vercel.app](https://errors-man.vercel.app/)
+  - [errors-man vercel.app](https://errors-man.vercel.app/)
   
-  [reddit sideproject qoodle](https://www.reddit.com/r/SideProject/s/iA4ZnCk0tW) qoodle ai assistant search discovery
+  - [reddit sideproject qoodle](https://www.reddit.com/r/SideProject/s/iA4ZnCk0tW) qoodle ai assistant search discovery
   
   - [Automatically ApplyHero - Postuler à des emplois en utilisant l'IA : r/SideProject](https://www.reddit.com/r/SideProject/comments/1hmlu46/automatically_applyhero_apply_to_jobs_using_ai/?share_id=PPeE-K57kZvvCN2bdAODU&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=3)
       - [Automatically Apply to Jobs  Apply Hero AI](https://www.applyhero.ai/?ref=futuretools.io)
