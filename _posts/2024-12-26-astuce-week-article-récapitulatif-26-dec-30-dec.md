@@ -8,10 +8,107 @@ draft: false
 lang: fr
 layout: post
 ---
+<head>
+
+  
+
+<style>
+@keyframes blinkCursor {
+  50% {
+    border-right-color: transparent;
+  }
+}
+
+@keyframes typeAndDelete {
+  0%,
+  10% {
+    width: 0;
+  }
+  45%,
+  55% {
+    width: 6.2em;
+  } /* adjust width based on content */
+  90%,
+  100% {
+    width: 0;
+  }
+}
+
+.terminal-loader {
+  border: 0.1em solid #333;
+  background-color: #1a1a1a;
+  color: #0f0;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1em;
+  padding: 1.5em 1em;
+  width: 12em;
+  margin: 100px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.terminal-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1.5em;
+  background-color: #333;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  padding: 0 0.4em;
+  box-sizing: border-box;
+}
+
+.terminal-controls {
+  float: right;
+}
+
+.control {
+  display: inline-block;
+  width: 0.6em;
+  height: 0.6em;
+  margin-left: 0.4em;
+  border-radius: 50%;
+  background-color: #777;
+}
+
+.control.close {
+  background-color: #e33;
+}
+
+.control.minimize {
+  background-color: #ee0;
+}
+
+.control.maximize {
+  background-color: #0b0;
+}
+
+.terminal-title {
+  float: left;
+  line-height: 1.5em;
+  color: #eee;
+}
+
+.text {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 0.2em solid green; /* Cursor */
+  animation: typeAndDelete 4s steps(11) infinite,
+    blinkCursor 0.5s step-end infinite alternate;
+  margin-top: 1.5em;
+}
+</style>
+</head>
 
 
 #### liens tech de la semaine du 26-12-2024
-Dans cet article on retrouvera les 
+Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotneed, des boilerplate, des vidéos YT, Reddit
 
 
 
@@ -20,10 +117,20 @@ Dans cet article on retrouvera les
   [JavaScript cheat sheet · Web Dev Topics · Learn the Web](https://learntheweb.courses/topics/javascript-cheat-sheet/)
   
   [Markdown & YAML cheat sheet · Web Dev Topics · Learn the Web](https://learntheweb.courses/topics/markdown-yaml-cheat-sheet/)
+  [Jekyll cheat sheet · Web Dev Topics · Learn the Web](https://learntheweb.courses/topics/jekyll-cheat-sheet/)
+<div class="terminal-loader">
+  <div class="terminal-header">
+    <div class="terminal-title">Status</div>
+    <div class="terminal-controls">
+      <div class="control close"></div>
+      <div class="control minimize"></div>
+      <div class="control maximize"></div>
+    </div>
+  </div>
+  <div class="text">Learn the web...</div>
+</div>
     
-###    [Jekyll cheat sheet · Web Dev Topics · Learn the Web](https://learntheweb.courses/topics/jekyll-cheat-sheet/)
-    
- Jekyll talk  and to implement to this portfolio
+###  Jekyll talk  and to implement to this portfolio
     
   [How to add a search bar? - Help - Jekyll Talk](https://talk.jekyllrb.com/t/how-to-add-a-search-bar/606/4)
   
