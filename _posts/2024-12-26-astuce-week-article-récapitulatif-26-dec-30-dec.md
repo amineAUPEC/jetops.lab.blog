@@ -110,6 +110,7 @@ layout: post
 #### liens tech de la semaine du 26-12-2024
 Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotneed, des boilerplate, des vidéos YT, Reddit
 
+----------
 
 
 ### learntheweb.courses
@@ -129,13 +130,18 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
   </div>
   <div class="text">Learn web...</div>
 </div>
+
+----------
+
     
 ###  Jekyll talk  and to implement to this portfolio
     
   [How to add a search bar? - Help - Jekyll Talk](https://talk.jekyllrb.com/t/how-to-add-a-search-bar/606/4)
   
   [Create Jekyll API - Help - Jekyll Talk](https://talk.jekyllrb.com/t/create-jekyll-api/937/6)
-    
+
+ ----------
+   
 
 ### [youmightnotneed.co](http://youmightnotneed.co/) product hunt like apps
     
@@ -148,19 +154,24 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
 
 [textarea - share text across all devices](https://textarea.space/)
 
+----------
+
 ### Boilerplate
     
   [Introduction - Ship](https://ship.paralect.com/docs/introduction) Boilerplate  Full-Stack Node.js 
   
   [Best SaaS Boilerplates, Templates & Starter Kits BoilerplateHub](https://boilerplatehub.com/) including some free template 
     
+----------
 
 ### Google sheets manipulation
     
   [Google Sheets API, connect Google Sheet with your site. Also works with Excel.  sheet2api](https://sheet2api.com/?ref=boilerplatehub)
   
   [How to create an app Google AppSheet](https://about.appsheet.com/how-to-create-an-app/) Appsheet by Google deploy fast like powerapps: **Create apps your way: from AI-assistance to custom builds from scratch.**
-  
+
+----------
+
 
 ### reddit actus
   - LINUX mouseless
@@ -219,7 +230,8 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
                                    
 ```
 
-            
+----------
+         
 ### youtube videos
 #### Youtube videos creation automation workflows
         
@@ -229,7 +241,9 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
   - [How To Create Drag & Drop Using HTML CSS And JavaScript Drag And Drop In JavaScript](https://www.youtube.com/watch?v=4AHot187Lj0)
             
       [GreatStack is Making Learning Videos](https://buymeacoffee.com/easytutorials)
-            
+
+----------
+           
 ### Projecttocreate
   - 3D printing a 3D printer : we should have a 3d printed printer (it’s a joke but anyway if you do it)
   - CSV manipulations
@@ -239,8 +253,16 @@ Dans cet article on retrouvera les articles de learntheweb, Jekyll, youmightnotn
   - Il faudrait mettre en ligne tous les sous-titres par exemple du JT *à l'aide d'un QR code ou d'un short link*
   - Créer des désassembleur car ce type d’outil sont souvent coûteux
   - Appli permettant de se féliciter pour stimuler la dopamine et / ou recommander de la musique pour se changer d’idée avec `win10toast`
+
+----------
+
+
 #### Prochainement
 - Project 
   - Project musicreward
   - Votreimmobilier comparateur : centraliser et comparer les prix des biens immobiliers
   - Drivehub : centraliser les drives de magasins et comparer les prix et multi-sélectionner les produits
+
+
+ ----------
+
