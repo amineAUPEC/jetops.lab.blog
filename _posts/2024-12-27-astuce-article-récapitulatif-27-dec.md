@@ -1,3 +1,15 @@
+--- 
+title:  "Astuce - article - 27 décembre - Décembre 2024 - Arecap"
+Article_file_name:  "2024-12-27-astuce-article-récapitulatif-27-dec.md"
+tags: ["day-recap", "dossier", "astuce", "tools", "virtu","devops","prezi", "dec", "dec-2024"]
+description:  "Astuce du jour 27 décembre"
+date: 2024-12-27 18:33:29
+draft: false 
+lang: fr
+layout: post
+---
+
+
 Dans cet article du 27-12-2024 nous faisons le tour **des outils CLI, Devops, des moteurs de recherches, regex, thumbsdb, du DockerHub, de présentations Prezi, de VMware**
 
 ---
@@ -110,6 +122,8 @@ https://projetsdiy.fr/comment-installer-raspbian-raspberry-pi-zero-sans-ecran-cl
 ---
 
 ### Docker hub et Jenkins
+- Des images Docker sont des grosso modos des outils préconçus à configurer sur-mesure
+
 
 https://hub.docker.com/search?q=Nmap&type=image 
 
@@ -123,6 +137,14 @@ https://hub.docker.com/r/kmille2/deezer-downloader
 
 https://chercher.tech/jenkins/jenkins-docker-remote-machine-vm 
 
+```bash
+  ____     ___     ____   _  __  _____   ____  
+ |  _ \   / _ \   / ___| | |/ / | ____| |  _ \ 
+ | | | | | | | | | |     | ' /  |  _|   | |_) |
+ | |_| | | |_| | | |___  | . \  | |___  |  _ < 
+ |____/   \___/   \____| |_|\_\ |_____| |_| \_\
+                                               
+```
 ---
 
 ### Freelance tasks
@@ -145,6 +167,14 @@ https://prezi.com/zaoqz0_8x0jz/how-search-engines-work/
 
 https://prezi.com/pzbkazqxpu3p/search-engines-presentation/ 
 
+```bash
+  ____    ____    _____   _____  ___ 
+ |  _ \  |  _ \  | ____| |__  / |_ _|
+ | |_) | | |_) | |  _|     / /   | | 
+ |  __/  |  _ <  | |___   / /_   | | 
+ |_|     |_| \_\ |_____| /____| |___|
+
+```
 ---
 
 ### Présentation BIG DATA
@@ -164,6 +194,16 @@ https://www.starwindsoftware.com/blog/configuring-azure-point-to-site-vpn-with-w
 https://vp-next.com/en/vpn-server-manager/ 
 
 https://github.com/tiagovla/nordvpn_tester/blob/master/poetry.lock 
+
+```bash
+ __     __  ____    _   _ 
+ \ \   / / |  _ \  | \ | |
+  \ \ / /  | |_) | |  \| |
+   \ V /   |  __/  | |\  |
+    \_/    |_|     |_| \_|
+                          
+```
+
 
 ---
 
@@ -244,6 +284,14 @@ https://www.gratisexam.com/vmware/1v0-601/VMware.Testking.1V0-601.v2015-07-27.by
 https://vloreblog.files.wordpress.com/2020/08/vmugkc-session-vcp-dcv.pdf
 ```
 
+```bash
+ __     __  ____    ___    ____   __  __ 
+ \ \   / / / ___|  |_ _|  / ___| |  \/  |
+  \ \ / /  \___ \   | |  | |     | |\/| |
+   \ V /    ___) |  | |  | |___  | |  | |
+    \_/    |____/  |___|  \____| |_|  |_|
+                                         
+```
 ---
 
 ### Autres astuces du 25-12-2024
