@@ -10,7 +10,7 @@ layout: post
 ---
 
 
-Afin de formater les liens avec Jekyll, si le lien n'est pas spécifié par un http ou https alors la balise `{{ site.url }}` est ajoutée automatiquement. ex: {{ site.url }}
+Afin de formater les liens avec Jekyll, si le lien n'est pas spécifié par un http ou https alors la balise `{ site.url }}` est ajoutée automatiquement. ex: {{ site.url }}
 
 
 
@@ -18,7 +18,7 @@ Alors j'ai développé un script bash pour automatiser cette tâche. Il gère le
 Enfin un mode debug est également présent.
 
 
-found-link-without-http.sh
+Fichier : *found-link-without-http.sh* : 
 ```bash
 DEFAULT_DIRECTORY="../_posts"
 

@@ -25,6 +25,8 @@ A l'aide du menu exécuter ou de la commande Windows R
 - `msconfig` : Configurer le démarrage et les services. ⚙️
 - `gpedit.msc` : Gérer les stratégies de groupe locale. 📝
 
+----------
+
 📌 **Commandes pour les outils du Panneau de configuration :**
 
 - `appwiz.cpl` : Gérer les programmes installés. 📦
@@ -37,6 +39,9 @@ A l'aide du menu exécuter ou de la commande Windows R
 - `powercfg.cpl` : Modifier les paramètres d’alimentation. ⚡
 - `mmsys.cpl` : Configurer les périphériques audio. 🎧
 
+----------
+
+
 📌 **Commandes réseau et connectivité :**
 
 - `ipconfig` : Afficher et configurer les paramètres IP. 🌐
@@ -46,6 +51,8 @@ A l'aide du menu exécuter ou de la commande Windows R
 - `ping [adresse]` : Vérifier la connectivité réseau. 📡
 - `tracert [adresse]` : Diagnostiquer le chemin réseau. 🛤️
 - `netsh wlan show profiles` : Lister les profils Wi-Fi enregistrés. 📶
+
+----------
 
 📌 **Commandes pratiques pour les diagnostics et la productivité :**
 
@@ -59,6 +66,8 @@ A l'aide du menu exécuter ou de la commande Windows R
 - `shutdown -s` : Éteindre le PC. 🔌
 - `shutdown -r` : Redémarrer le PC. 🔄
 - `verifier` : Diagnostiquer les pilotes système. 🧪
+
+----------
 
 📌 **Commandes pour les outils intégrés Windows :**
 
@@ -78,6 +87,7 @@ A l'aide du menu exécuter ou de la commande Windows R
  | (_) | | |_| | | |_  | | | | \__ \
   \___/   \__,_|  \__| |_| |_| |___/
 ```                                    
+----------
                                     
 📌 **Autres commandes utiles :**
 
@@ -87,5 +97,7 @@ A l'aide du menu exécuter ou de la commande Windows R
 - `syskey` : Sécuriser la base de données des comptes utilisateurs. 🔐
 - `explorer` : Lancer l’explorateur de fichiers. 📂
 - `rstrui` : Lancer la restauration système. ⏳
+
+----------
 
 Source : [youssef-srarfi Windows R](https://www.linkedin.com/posts/youssef-srarfi-a3129a142_windows-commandeswindows-productivitaez-activity-7279454431757189120-Ii4K)
