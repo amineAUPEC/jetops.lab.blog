@@ -8,7 +8,7 @@
   <a href="./#blog-posts">Articles :)</a>
   <a href="./#draft-preview">Articles BETA</a>
   <a href="./utilities-page/contact">Contact</a>
-  <a href="./utilities-page/about.md">About</a>
+  <a href="./utilities-page/about">About</a>
 </div>
 
 
@@ -49,8 +49,8 @@ go to a random post  [random post](./utilities-jekyll/random)
 [Draft Preview](utilities-jekyll/display_draft.md)
 
 
-
-
+# Add to your RSS Feed
+- Add to your RSS feed [https://amineaupec.github.io/jetops.lab.blog/feed.xml](https://amineaupec.github.io/jetops.lab.blog/feed.xml)
 
 <!-- # Test post for each post url and title
 

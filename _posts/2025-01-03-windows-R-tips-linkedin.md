@@ -1,9 +1,9 @@
 --- 
-title:  "Astuce - Windows R - 03 janvier - Janvier 2024 - Astuce"
+title:  "Astuce - Windows R - 03 janvier - Janvier 2025 - Astuce"
 Article_file_name:  "2025-01-03-windows-R-tips-linkedin.md"
 tags: ["astuce", "tools", "systeme","windows","windowsR", "jan", "jan-2025"]
 description:  "Windows R les différentes commandes - 03 Janvier"
-date: 2025-01-03 18:23:29
+date: 2025-01-02 18:23:29
 draft: false 
 lang: fr
 layout: post
