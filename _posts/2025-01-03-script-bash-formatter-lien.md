@@ -1,6 +1,6 @@
 --- 
 title:  "Astuce - bash scripting formatter les liens - 03 janvier - Janvier 2024 - Scripting"
-Article_file_name:  "2025-03-01-script-bash-formatter-lien.md"
+Article_file_name:  "2025-01-03-script-bash-formatter-lien.md"
 tags: ["astuce", "tools", "systeme","windows","windowsR", "jan", "jan-2025"]
 description:  "Bash scripting formatter les liens pour les posts Jekyll sans https - http - 03 Janvier"
 date: 2025-01-03 18:23:29
