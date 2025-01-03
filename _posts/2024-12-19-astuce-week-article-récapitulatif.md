@@ -189,7 +189,7 @@ then use it with `vcdxrip -vpC` verbose progress from cdrom
 
 #### Learn linux websites
 @linux @websites  
-[linuxfromscratch bifs systemd](linuxfromscratch.org/bifs/view/stable-systemd)  
+[linuxfromscratch bifs systemd](https://linuxfromscratch.org/bifs/view/stable-systemd)  
 
 
 
@@ -223,8 +223,8 @@ utile pour le CCNA CCNP
 
 
 source : linkedin   
-liens liés : [lnkd.in/dS-G5zGg](lnkd.in/dS-G5zGg)   
-et [lnkd.in/dhU6a29R](lnkd.in/dhU6a29R)    
+liens liés : [lnkd.in/dS-G5zGg](https://lnkd.in/dS-G5zGg)   
+et [lnkd.in/dhU6a29R](https://lnkd.in/dhU6a29R)    
 
 ```bash
 _          _           
@@ -237,7 +237,7 @@ _          _
 ----------
 #### Dev tools  docs tools 
 @tools @helpdocs  
-[explorer.globe.engineer](explorer.globe.engineer)  
+[explorer.globe.engineer](https://explorer.globe.engineer)  
 
 ----------
 
@@ -291,7 +291,7 @@ On peut réinstaller un PC en désactivant le  secure boot à l'aide du clé boo
 
 installing pixel experience on veux 
 
-[get.pixelexperience.org](get.pixelexperience.org)
+[get.pixelexperience.org](https://get.pixelexperience.org)
 
 
 ```bash
@@ -433,7 +433,7 @@ dns and isp checker tool, saas is lucrative
 
 #### Blog tech 
 @blog-tech  
-[blog.alexxellis.io](blog.alexxellis.io)   
+[blog.alexxellis.io](https://blog.alexxellis.io)   
 docker   
 gactions runner   
 
@@ -496,10 +496,10 @@ ipmi systems
 ----------
 #### Learning -- devops
 @devops-learning-websites @formation  
-[kitchensoap.com](kitchensoap.com)  
-[lethain.com](lethain.com)   
-[charity.wtf](charity.wtf)  
-[rootly.com](rootly.com)   
+[kitchensoap.com](https://kitchensoap.com)  
+[lethain.com](https://lethain.com)   
+[charity.wtf](https://charity.wtf)  
+[rootly.com](https://rootly.com)   
 r/devops  
 u/devoopseng  
 
@@ -550,7 +550,7 @@ https://kmlviewer.nsspot.net/
 ----------
 #### Product listing and founding tools 
 @disrupt @producthunt-like  
-[disrupt500.com](disrupt500.com)   
+[disrupt500.com](https://disrupt500.com)   
 tella content-creation ai for video   
 kinde developer-tools auth mod  
 
@@ -573,18 +573,18 @@ intelligently skip irrelevant pages + do search/replaces
 
 @webscraping  
 hero ulixee github   
-[github.com/ulixee/hero](github.com/ulixee/hero)  
-[github.com/apify/crawlee](github.com/apify/crawlee)  
+[github.com/ulixee/hero](https://github.com/ulixee/hero)  
+[github.com/apify/crawlee](https://github.com/apify/crawlee)  
 
 
 @webscraping  
-[github.com/zfcsoftware/puppeteer-realbrowser](github.com/zfcsoftware/puppeteer-realbrowser)  
+[github.com/zfcsoftware/puppeteer-realbrowser](https://github.com/zfcsoftware/puppeteer-realbrowser)  
 
 u/sir_hennihau  
 
 @webscraping  
 u/sufficient_tree4275  
-[scrapegraphai.com](scrapegraphai.com)  
+[scrapegraphai.com](https://scrapegraphai.com)  
 
 ----------
 @webscraping  
@@ -607,7 +607,7 @@ r/webscraping
 scrapling lightning-fast  adapative web scrapling for Python   
 
 
-[github.com/D4Vinci/Scrapling](github.com/D4Vinci/Scrapling)  
+[github.com/D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  
 "scrapling is  a high performance intelligent web scraping library for Python that automatically adapts to website changes" . According to u/0xReaper  
 
 ----------
@@ -639,7 +639,7 @@ from soupsavvy import ClassSelector, PatternSelector, TypeSelector
 
 
 readthedocs.io  
-[GitHub soupsavvy](github.com/sewcio543/soupsavvy)  
+[GitHub soupsavvy](https://github.com/sewcio543/soupsavvy)  
 r/webscraping  
 
 ----------
@@ -655,13 +655,13 @@ scrapin ai agents
 @webscraping  
 r/webscraping  
 u/milahu2   
-[kadoa.com](kadoa.com)   
-[gobble.bot](gobble.bot)  
-[octoparse.com](octoparse.com)   
-[bardeen.ai](bardeen.ai)  
+[kadoa.com](https://kadoa.com)   
+[gobble.bot](https://gobble.bot)  
+[octoparse.com](https://octoparse.com)   
+[bardeen.ai](https://bardeen.ai)  
 
-[roborabbit.com](roborabbit.com)   
-[webscrap.ai](webscrap.ai)  
+[roborabbit.com](https://roborabbit.com)   
+[webscrap.ai](https://webscrap.ai)  
 
 ----------
 
@@ -669,7 +669,7 @@ u/n0madm0nad
 
 for concurrent request use  *httpx gather asyncio.gather()*  
 r/webscraping   
-[github.com/lucaromagnoli/dataservice](github.com/lucaromagnoli/dataservice)  
+[github.com/lucaromagnoli/dataservice](https://github.com/lucaromagnoli/dataservice)  
 
 aysncservice  
 
@@ -682,7 +682,7 @@ title number of sales review images
 ----------
 
 @webscraping @datahub  
-[crawlbase.com](crawlbase.com) scrap hub   
+[crawlbase.com](https://crawlbase.com) scrap hub   
 
 ----------
 #### Lifestyle and culture 

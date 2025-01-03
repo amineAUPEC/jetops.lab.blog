@@ -1,5 +1,5 @@
 --- 
-title:  "Astuce - Windows R - 27 janvier - Janvier 2024 - Arecap"
+title:  "Astuce - Windows R - 03 janvier - Janvier 2024 - Astuce"
 Article_file_name:  "2025-03-01-windows-R-tips-linkedin.md"
 tags: ["astuce", "tools", "systeme","windows","windowsR", "jan", "jan-2025"]
 description:  "Windows R les différentes commandes - 03 Janvier"
@@ -8,6 +8,7 @@ draft: false
 lang: fr
 layout: post
 ---
+
 A l'aide du menu exécuter ou de la commande Windows R
 💻 Commandes essentielles Windows (<kbd>Win+R</kbd>) :
 
