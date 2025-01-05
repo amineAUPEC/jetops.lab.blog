@@ -1,0 +1,9 @@
+- []  stylize with css 
+- []  add a search bar with Google Custom Search Engine
+- []  add a comment section with Disqus | Utterances
+- []  add a share section with AddThis
+- []  add a like section with AddThis
+- [] use Frontmatter vscode plugin 
+    - [Front-Matter](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter)
+- [] add a Dockerfile/docker-compose
+- [] add a script to manage posts and drafts
