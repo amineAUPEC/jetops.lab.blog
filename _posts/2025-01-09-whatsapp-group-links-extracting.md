@@ -1,6 +1,6 @@
 
 ### Whatsapp Group Links Extracting
-Extracting / Scraping Whatsapp link in a group  via Web.whatsapp *and storing it into a json file*
+Extracting / Scraping Whatsapp link shared inside a group  via Web.whatsapp *and storing it into a json file*
 
 ```javascript 
 const elements = document.querySelectorAll("a");
