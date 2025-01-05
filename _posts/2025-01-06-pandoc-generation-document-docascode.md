@@ -12,7 +12,9 @@ layout: post
 
 
 # Définition : 
-- Pandoc est un outil qui permet de convertir soit en ligne de commandes ou à l'aide de la version GUI pour Windows ou même via une extension VScode. Il permet de convertir des fichiers markdown en fichiers Word, PDF, HTML ou même en Latex...  
+- Pandoc est un outil qui permet de convertir soit en ligne de commandes ou à l'aide de la version GUI pour Windows ou même via une extension VScode. Il permet de convertir des fichiers markdown en fichiers Word, PDF, HTML ou même en Latex...  Selon le site officiel : *Pandoc est une bibliothèque Haskell permettant de convertir d’un format de balisage à un autre, et un qui utilise cette bibliothèque.*
+
+
 
 [pandoc.org manual](https://pandoc.org/MANUAL.html#option--reference-doc)  
 
