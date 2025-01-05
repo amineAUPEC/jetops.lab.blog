@@ -22,29 +22,29 @@ https://youtu.be/ICU6XUzqg-U 10 awesome cli tools
 
 ### Devops db and Docker or Ansible
 
-https://www.virtualizationhowto.com/2023/07/best-docker-containers-commands-you-need-to-know/ 
+[virtualizationhowto best-docker-containers-commands-you-need-to-know](https://www.virtualizationhowto.com/2023/07/best-docker-containers-commands-you-need-to-know/ )
 
-https://forums.oracle.com/ords/apexds/post/what-is-the-default-password-for-sys-5442 
+[forums.oracle.com what-is-the-default-password-for-sys-5442 ](https://forums.oracle.com/ords/apexds/post/what-is-the-default-password-for-sys-5442 )
 
-https://d3vpasha.wordpress.com/2017/05/12/ansible-les-variables/ 
+[d3vpasha.wordpress ansible-les-variables](https://d3vpasha.wordpress.com/2017/05/12/ansible-les-variables/) 
 
 ---
 
 ### Search engine
 
-https://www.presse-citron.net/presearch-ce-nouveau-moteur-de-recherche-decentralise-veut-faire-de-lombre-a-google 
+[presse-citron presearch-ce-nouveau-moteur-de-recherche-decentralise-veut-faire-de-lombre-a-google ](https://www.presse-citron.net/presearch-ce-nouveau-moteur-de-recherche-decentralise-veut-faire-de-lombre-a-google )
 
 ---
 
 ### Regex and string manipulations
 
-https://www.shellhacks.com/regex-find-ip-addresses-file-grep/ 
+[shellhacks regex-find-ip-addresses-file-grep ](https://www.shellhacks.com/regex-find-ip-addresses-file-grep/ )
 
-https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/ 
+[cyberciti how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell](https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/ )
 
 - regex manipulation
     
-    https://stackoverflow.com/questions/5249779/how-to-search-filenames-by-regex-with-find 
+    [stackoverflow how-to-search-filenames-by-regex-with-find](https://stackoverflow.com/questions/5249779/how-to-search-filenames-by-regex-with-find) 
     
     `find /home/test -regextype posix-extended -regex '^.*test\.log\.[0-9]{4}-[0-9]{2}-[0-9]{2}\.zip' -mtime +3`
     
