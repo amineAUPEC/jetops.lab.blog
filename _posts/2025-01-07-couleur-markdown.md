@@ -14,9 +14,7 @@ Dans cet article, nous allons explorer différentes méthodes pour ajouter des c
 ## Méthodes pour ajouter des couleurs
 
 - [stackoverflow how-to-apply-color-on-text-in-markdown](https://stackoverflow.com/questions/35465557/how-to-apply-color-on-text-in-markdown)  
-- [stackoverflow how-to-apply-color-on-text-in-markdown](https://stackoverflow.com/questions/35465557/how-to-apply-color-on-text-in-markdown)  
 
-- [stackoverflow how-to-apply-color-on-text-in-markdown](https://stackoverflow.com/questions/35465557/how-to-apply-color-on-text-in-markdown)
 
 
 ```html
