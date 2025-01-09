@@ -1,3 +1,14 @@
+---
+title: "Astuce - Participer automatiquement les réunions Teams - Teams Automatic Leaver - 09 janvier - Janvier 2025 - Scripting"
+date: 2025-01-09 13:00:00
+Article_file_name:  "2025-01-07-teams-automatic-laver-attender.md"
+tags: ["astuce", "teams", "meeting", "attends", "leave", "participation", "jan", "jan-2025"]
+description:  "Participer comme un robot aux réunions Teams -- Attend Teams meeting and leave it automatically - Scripting  - January 9"
+draft: false
+lang: fr
+layout: post
+---
+
 
 # articles
 We are going to see how to automatically leave teams meetings.
@@ -12,7 +23,7 @@ We are going to see how to automatically leave teams meetings.
 
 
 ## teams meeting automatic leaver (inspired)
-1. get connected to the teams web meeting them enable bookmarklet
+1. solution N°1 : get connected to the teams web meeting them enable bookmarklet
 1. a timer is triggered after 5 mins 
 1. once the participants number is equal to 2 
 1. the javascript bookmarklet will automatically leave by clicking the red quit button 
@@ -28,10 +39,13 @@ We are going to see how to automatically leave teams meetings.
 
 - *Source* : 
     - [i_wrote_a_python_script_to_automatically_join_and/](https://www.reddit.com/r/Python/comments/hxp5eq/i_wrote_a_python_script_to_automatically_join_and/)  
-    - [MS Teams auto-joiner](https://github.com/atharva-lipare/MS-Teams-Auto-Joiner)  
-    
+    - [MS Teams auto-joiner](https://github.com/atharva-lipare/MS-Teams-Auto-Joiner)      
 
-### fr teams pour quitter les réunions automatiquement
+
+
+
+
+### FR teams pour quitter les réunions automatiquement
 Dans cet article, nous allons voir comment quitter automatiquement les réunions Teams. Du moins les étapes de création du script.
 
 - Cela peut être utile pour les personnes pressées ou qui doivent quitter la réunion rapidement.

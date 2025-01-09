@@ -1,7 +1,7 @@
 ---
 title: "Astuce - Script de rangement en Powershell -- Organiser-vos-fichiers - 09 janvier - Janvier 2025 - Powershell"
-date: 2025-01-09 13:00:00
-Article_file_name:  "2025-01-07-script-rangement-organiser-vos-fichiers--sorting-script.md"
+date: 2025-01-09 11:00:00
+Article_file_name:  "2025-01-09-script-rangement-organiser-vos-fichiers--sorting-script.md"
 tags: ["astuce", "powershell", "scripting", "rangement", "bureau", "file-sorting", "jan", "jan-2025"]
 description:  "Script de rangement pour trier vos fichiers en un clin d'oeil -- sorting script - January 9"
 draft: false
