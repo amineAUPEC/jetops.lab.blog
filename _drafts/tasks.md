@@ -7,3 +7,7 @@
     - [Front-Matter](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter)
 - [] add a Dockerfile/docker-compose
 - [] add a script to manage posts and drafts
+- [] add button to copy code
+- [] add button to navigate between section
+- [] add button to scroll to the top
+- 

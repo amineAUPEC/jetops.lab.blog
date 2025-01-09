@@ -43,7 +43,7 @@ Move-Item -Path $x.FullName -Destination $pathToUse/"Documents"
 #### Comment le lancer 
 - On lance powershell dans l'explorateur de fichier ou en ligne de commande, on se déplace de répertoire et on copie le script dedans puis on l'exécute.
 
-![PowerShell Logo](https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png)
+![PowerShell Logo](https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png){: width="50px" }
 
 > [!TIP]
 > Il est possible d'épingler dans l'explorateur de fichier le raccourci PowerShell pour le lancer plus rapidement.
@@ -65,7 +65,6 @@ This is a PowerShell script to sort your desktop files. It was created by the bl
 #### How to launch it
 - We launch powershell in the file explorer or in command line, we move to the directory and we copy the script in it then we execute it.
 
-![PowerShell Logo](https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png)
 
 > [!TIP]
 > It is possible to pin the PowerShell shortcut in the file explorer to launch it more quickly.
