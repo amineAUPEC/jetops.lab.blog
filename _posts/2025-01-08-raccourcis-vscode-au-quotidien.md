@@ -29,7 +29,7 @@ layout: post
 
 
 <kbd> CTRL + ( </kbd> | Réduire le cran d'indentation ⬅️  
-<!-- <kbd> CTRL + ) </kbd> | augmenter le cran d'indentation ➡️ -->
+<kbd> TAB </kbd> | augmenter le cran d'indentation ➡️
 
 
 <kbd> ALT + arrow_up </kbd> | Déplacer la ligne vers le haut ⏫  
@@ -68,7 +68,7 @@ layout: post
 <kbd> CTRL + TAB </kbd> | Switch between open files 🔀
 
 <kbd> CTRL + ( </kbd> | Decrease indentation level ⬅️
-<!-- <kbd> CTRL + ) </kbd> | Increase indentation level ➡️ -->
+<kbd> TAB </kbd> | Increase indentation level ➡️
 
 <kbd> ALT + arrow_up </kbd> | Move the line up ⏫
 <kbd> ALT + arrow_down </kbd> | Move the line down ⏬
@@ -87,3 +87,4 @@ layout: post
 <kbd> CTRL + X </kbd> | Cut the line / selected text ✂ ✂
 
 
+<kbd> CTRL + / </kbd> | Comments / Uncomments ❇

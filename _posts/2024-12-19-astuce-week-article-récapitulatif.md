@@ -12,6 +12,28 @@ layout: post
 
 # article récapitulatif du 19-12-2024 
 
+## Version française - Introduction
+Dans cet article vous retrouverez les astuces de la semaine du 19 décembre 2024. Vous retrouverez des recherches liées au Cloud computing sous le format d'un dossier. 
+Ensuite vous retrouverez des astuces liés à :
+    - Symbian, la veile sur Reddit[tui,cli,webscraping,virtualisation, cicd], sur Youtube, StackOverflow
+    - Des concepts Web pour le référencement et DigitalMarketing
+    - Des astuces sur Windows Phone, réinstallation OS, ROM Custom, AI tools, Linux, Sideloading 
+    - Vulgarisation, playground, sideloading, VScode
+    - Linux, Devops, self-hosted...
+    - Qgis, mails tools, kernel, 
+- Beaucoup de contenus condensés ou sous forme de notes car il s'agit d'une première. 
+
+## Version anglaise - Introduction
+
+In this article, you will find the tips of the week for December 19, 2024. You will find research related to Cloud computing in the form of a dossier.
+Then you will find tips related to:
+- Symbian, monitoring on Reddit [tui, cli, web scraping, virtualization, cicd], on YouTube, StackOverflow
+- Web concepts for SEO and Digital Marketing
+- Tips on Windows Phone, OS reinstallation, Custom ROM, AI tools, Linux, Sideloading
+- Popularization, playground, sideloading, VScode
+- Linux, Devops, self-hosted...
+- A lot of condensed content or in the form of notes as this is a first.
+
 # Cloud Computing 
 
 Dans cette partie vous retrouverez des termes liés au Cloud. 
@@ -69,7 +91,7 @@ private public hybrid cloud model
 
 ----------
 
-![cloud](https://www.cristeal.com/upload/le-cloud-definition-1603704312-34228.jpg)
+![cloud](https://www.cristeal.com/upload/le-cloud-definition-1603704312-34228.jpg){: width="50%"}
 
 # Actualités tech catégorisés 
 
@@ -348,7 +370,7 @@ macropads
 cxt 12E3 12E4 u/sayodevice  
 6nov ios  
 
-![Macropads](https://i.etsystatic.com/21198796/r/il/0d014b/4011474326/il_570xN.4011474326_g136.jpg)
+![Macropads](https://i.etsystatic.com/21198796/r/il/0d014b/4011474326/il_570xN.4011474326_g136.jpg){: width="50%"}
 
 ----------  
 
@@ -460,7 +482,7 @@ platform where students team up around startup ideas
 u/long-report423  
 
 r/sideproject  
-![Building...](https://plus.unsplash.com/premium_photo-1721460167419-2d0316b72ffb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Building...](https://plus.unsplash.com/premium_photo-1721460167419-2d0316b72ffb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D){: width="50%"}
 
 ----------
 
@@ -545,7 +567,7 @@ proton mail bridge to automate mail impa smtp client
 
 #### Tools geolocalisation geotag qgis 
 @geolocalisation @geotag @qgis @geoloc  
-https://kmlviewer.nsspot.net/  
+[kmlviewer.nsspot.net](https://kmlviewer.nsspot.net/)  
 
 ----------
 #### Product listing and founding tools 
@@ -613,10 +635,10 @@ scrapling lightning-fast  adapative web scrapling for Python
 ----------
 @webscraping  
 r/webscraping  
-u/damanamathos  
-pandoc   
-markdownify - pypi   
-html2markdown(html)  
+- u/damanamathos  
+    - pandoc   
+    - markdownify - pypi   
+    - html2markdown(html)  
 
 ```python
 html2markdown(html): 
@@ -689,7 +711,7 @@ title number of sales review images
 @lifestyle @culture  
 vocalzones throat pastilles 24  help keep a clear voices  
 
-![vocalzones](https://m.media-amazon.com/images/I/71WdH0LT14L.jpg)
+![vocalzones](https://m.media-amazon.com/images/I/71WdH0LT14L.jpg){: width="50%"}
 
 ----------
 

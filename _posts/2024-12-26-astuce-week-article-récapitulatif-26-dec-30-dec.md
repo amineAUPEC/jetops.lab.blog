@@ -199,7 +199,7 @@ Dans cet article on retrouvera les articles de **learntheweb, Jekyll, youmightno
       
   - [Comment utiliser Windows Vista en 2025 : r/WindowsVista](https://www.reddit.com/r/WindowsVista/comments/1hlynaw/how_to_use_windows_vista_in_2025/?share_id=VUV1VV6YgMQHItpUDKIAm&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=3) u/matthewbs10
       - Vista Extended Kernel VEK
-      - SpotifyXP https://github.com/SpotifyXP/SpotifyXP
+      - SpotifyXP [Github SpotifyXP](https://github.com/SpotifyXP/SpotifyXP)
       - archive
       
   - [Mon idée la plus folle : j'ai créé une application pour organiser une compétition sur qui a lu le plus de livres cette année et j'ai eu 41 pays visitant mon site web. : r/microsaas](https://www.reddit.com/r/microsaas/comments/1ho6z2g/my_craziest_idea_i_made_an_app_to_compete_for_who/?share_id=KmNERjxdJMmRlBOWQV2qM&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=3)
@@ -235,6 +235,8 @@ Dans cet article on retrouvera les articles de **learntheweb, Jekyll, youmightno
           
           [HomeTasker](https://apps.apple.com/app/id1604578415): planning et rappel de nettoyage et de tâches ménagères
   - [uiverse.io](https://uiverse.io/jeremyssocial/ugly-bullfrog-62)
+
+  
 ```bash
                 __     __   _   __ 
   ____ ___  ___/ / ___/ /  (_) / /_

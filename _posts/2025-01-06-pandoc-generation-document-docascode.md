@@ -56,6 +56,8 @@ pandoc -o rapport_memoire_m2.docx -f markdown -t docx rapport.md --from=markdown
 
 
 - Voici des paramètres que j'ai recherché et essayer d'utiliser : 
+
+
 ```bash
 pandoc -o rapport_memoire_m2.docx -f markdown -t docx rapport.md --sandboxfalse
 
@@ -82,7 +84,7 @@ pandoc myReport.md --from markdown+pipe_tables --to latex -o myReport.pdf
 
 --from=markdown+backtick_code_blocks
 
- pandoc -o rapport_memoire_m2.docx -f markdown -t docx rapport.md --table-of-contents --toc --no-check-certificate --from=markdown+backtick_code_blocks --number-sections
+pandoc -o rapport_memoire_m2.docx -f markdown -t docx rapport.md --table-of-contents --toc --no-check-certificate --from=markdown+backtick_code_blocks --number-sections
 ```
 
 
