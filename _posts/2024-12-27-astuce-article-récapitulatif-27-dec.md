@@ -59,14 +59,15 @@ https://youtu.be/ICU6XUzqg-U 10 awesome cli tools
 *DIGITAL FORENSIC AND CACHE PHOTOGRAPHY*
 Thumbs Viewer allows you to extract thumbnail images from the Thumbs.db, ehthumbs.db, ehthumbs_vista.db, Image.db, Video.db, TVThumb.db, and musicThumbs.db database files found on various Windows operating systems.
 
-https://thumbsviewer.github.io/
 ```
+[Thumbs Viewer](https://thumbsviewer.github.io/)  
+
 
 ---
 
 ### Objets disque dur
 
-https://www.cdiscount.com/informatique/composants-informatiques/ugreen-usb-disque-dur-adapateur-usb-3-0-vers-sata/f-107130607-gob7572900524151.html 
+[UGREEN USB Disque Dur Adaptateur USB 3.0 vers SATA](https://www.cdiscount.com/informatique/composants-informatiques/ugreen-usb-disque-dur-adapateur-usb-3-0-vers-sata/f-107130607-gob7572900524151.html)  
 
 ---
 
@@ -125,17 +126,14 @@ https://projetsdiy.fr/comment-installer-raspbian-raspberry-pi-zero-sans-ecran-cl
 - Des images Docker sont des grosso modos des outils préconçus à configurer sur-mesure
 
 
-https://hub.docker.com/search?q=Nmap&type=image 
+### Docker Hub and Jenkins
 
-https://hub.docker.com/r/szalek/pentest-tools 
-
-https://hub.docker.com/_/postfixadmin 
-
-https://hub.docker.com/_/templarbit 
-
-https://hub.docker.com/r/kmille2/deezer-downloader 
-
-https://chercher.tech/jenkins/jenkins-docker-remote-machine-vm 
+- [DockerHub Nmap](https://hub.docker.com/search?q=Nmap&type=image)  
+- [DockerHub Pentest Tools](https://hub.docker.com/r/szalek/pentest-tools)  
+- [DockerHub Postfix Admin](https://hub.docker.com/_/postfixadmin)  
+- [DockerHub Templarbit](https://hub.docker.com/_/templarbit)  
+- [DockerHub Deezer Downloader](https://hub.docker.com/r/kmille2/deezer-downloader)  
+- [Chercher.tech Jenkins Docker Remote Machine VM](https://chercher.tech/jenkins/jenkins-docker-remote-machine-vm)  
 
 ```bash
   ____     ___     ____   _  __  _____   ____  
@@ -369,6 +367,9 @@ Seo reborn
 Lejournalducm
 Thierry creation
 Speed ecom
-https://ecommerce-platforms.com/fr/ecommerce-selling-advice/wix-dropshipping
-https://josephtorregrossa.com/blogs/dropshipping/wix-ecommerce-mon-guide-pour-demarrer-le-dropshipping-en-2023-1-2
+
 ```
+
+- Liens : 
+    - [Wix Dropshipping](https://ecommerce-platforms.com/fr/ecommerce-selling-advice/wix-dropshipping)  
+    - [Wix Ecommerce Guide](https://josephtorregrossa.com/blogs/dropshipping/wix-ecommerce-mon-guide-pour-demarrer-le-dropshipping-en-2023-1-2)  
