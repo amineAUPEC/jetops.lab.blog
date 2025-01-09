@@ -1,5 +1,5 @@
 ---
-title: "Astuce - Raccourcis clavier Visual Studio Code - 08 janvier 2025"
+title: "Astuce - Raccourcis clavier VSCode au quotidien - 08 janvier 2025"
 date: 2025-01-08 11:00:00
 Article_file_name: "2025-01-08-raccourcis-vscode-au-quotidien.md"
 tags: ["astuce", "vscode", "raccourcis-clavier", "productivité","daily",  "jan", "jan-2025"]
