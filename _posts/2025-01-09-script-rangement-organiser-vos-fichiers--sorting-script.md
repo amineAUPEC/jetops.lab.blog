@@ -33,6 +33,8 @@ Move-Item -Path $x.FullName -Destination $pathToUse/"Documents"
 ........
 }
 }
+```
+
 
 ### Powershell  : *Définitions et comment le lancer* 
 #### Définition
