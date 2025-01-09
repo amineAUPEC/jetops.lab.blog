@@ -1,7 +1,9 @@
 ---
 title: "Tip - Adding Colors in Markdown -- Seeing All the Colors - January 7, 2025 - Docascode"
+Article_file_name:  "2025-01-07-color-in-markdown.md"
 date: 2025-01-07 23:00:00
 tags: ["tip", "markdown", "color", "jekyll", "css", "javascript", "jan", "jan-2025"]
+description:  "Markdown with colors - January 7"
 draft: false
 lang: en
 layout: post

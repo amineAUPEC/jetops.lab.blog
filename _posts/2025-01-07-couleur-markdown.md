@@ -1,7 +1,9 @@
 ---
 title: "Astuce - Mettre des Couleurs en Markdown -- en voir de toutes les couleurs - 07 janvier - Janvier 2025 - Docascode"
+Article_file_name:  "2025-01-07-couleur-markdown.md"
 date: 2025-01-07 23:00:00
 tags: ["astuce", "markdown", "couleur", "jekyll", "css", "javascript", "jan", "jan-2025"]
+description:  "Markdown avec des couleurs - 07 Janvier"
 draft: false
 lang: fr
 layout: post
@@ -54,7 +56,7 @@ g { color: Green }
 
 - <r>TODO:</r> Important thing to do
 - <o>TODO:</o> Less important thing to do
-- <g>DONE:</g> Breath deeply and improve karma
+- <g>DONE:</g> Breath deeply and improve 
 ```
 
 ### Avec Jekyll
