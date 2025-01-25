@@ -1,4 +1,13 @@
-
+---
+title: "Management Soft - Tiling Window A better way to arrange Window - 13 janvier 2025"
+date: 2025-01-13 16:00:00
+Article_file_name: "2025-01-13-tiling-window.md"
+tags: ["SoftManagement", "Window", "productivity", "productivité",  "jan", "jan-2025"]
+description: "Tiling Window - Arrange window - January 13"
+draft: false
+lang: fr
+layout: post
+---
 
 
 
