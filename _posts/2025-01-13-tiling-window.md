@@ -40,4 +40,30 @@ Wikipedia has a list of programs for windows [here](http://en.wikipedia.org/wik
 
 Edit: (5 years later) All these years later, it seems a little unnecessary, because Windows 10 has features very similar to AquaSnap built in, but I've ended up using two main things to organize my windows. **Microsoft Powertoys**, which has a great built-in manager, and [**Groupy**](https://www.stardock.com/products/groupy/), which takes a rather clever approach to window management.
 
+### Images 
+![AquaSnap](https://www.nurgo-software.com/images/aquasnap.png){: width="50%"}
+![SplitView](https://www.splitview.com/images/splitview.png){: width="50%"}
+![Mosaico](https://www.soulidstudio.com/images/mosaico.png){: width="50%"}
+![HashTWM](https://github.com/ZaneA/HashTWM/raw/master/screenshot.png){: width="50%"}
+![GridMove](http://jgpaiva.dcmembers.com/images/gridmove.png){: width="50%"}
+![bug.n](https://github.com/fuhsjr00/bug.n/raw/master/screenshot.png){: width="50%"}
+![Windawesome](https://windawesome.codeplex.com/images/windawesome.png){: width="50%"}
+![MaxTo](http://maxto.net/images/maxto.png){: width="50%"}
+![Twinsplay](http://www.zinstall.com/images/twinsplay.png){: width="50%"}
+![Plumb](http://palatialsoftware.com/images/plumb.png){: width="50%"}
+![Python-windows-tiler](https://github.com/Tzbob/python-windows-tiler/raw/master/screenshot.png){: width="50%"}
+![Divvy](http://mizage.com/images/divvy.png){: width="50%"}
+
+## French Version
+### French Version - Meilleur gestionnaire de fenêtres en mosaïque pour Windows?
+
+### Meilleur gestionnaire de fenêtres en mosaïque pour Windows?
+
+![image-reddit](https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png)
+
+[**App**](https://www.reddit.com/r/windows/search?q=flair_name%3A%22App%22&restrict_sr=1)
+
+Linux a beaucoup trop d'options, mais cela ne nous aide pas beaucoup, alors j'ai pensé créer un fil de discussion pour nous.
+
+Quelqu'un a-t-il des recommandations, des expériences ou des suggestions ?
 
