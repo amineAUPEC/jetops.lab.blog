@@ -40,6 +40,8 @@ Wikipedia has a list of programs for windows [here](http://en.wikipedia.org/wik
 
 Edit: (5 years later) All these years later, it seems a little unnecessary, because Windows 10 has features very similar to AquaSnap built in, but I've ended up using two main things to organize my windows. **Microsoft Powertoys**, which has a great built-in manager, and [**Groupy**](https://www.stardock.com/products/groupy/), which takes a rather clever approach to window management.
 
+===
+
 ### Images 
 ![AquaSnap](https://www.nurgo-software.com/images/aquasnap.png){: width="50%"}
 ![SplitView](https://www.splitview.com/images/splitview.png){: width="50%"}
@@ -54,10 +56,11 @@ Edit: (5 years later) All these years later, it seems a little unnecessary, beca
 ![Python-windows-tiler](https://github.com/Tzbob/python-windows-tiler/raw/master/screenshot.png){: width="50%"}
 ![Divvy](http://mizage.com/images/divvy.png){: width="50%"}
 
+
+===
+
 ## French Version
 ### French Version - Meilleur gestionnaire de fenêtres en mosaïque pour Windows?
-
-### Meilleur gestionnaire de fenêtres en mosaïque pour Windows?
 
 ![image-reddit](https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png)
 
@@ -67,3 +70,19 @@ Linux a beaucoup trop d'options, mais cela ne nous aide pas beaucoup, alors j'ai
 
 Quelqu'un a-t-il des recommandations, des expériences ou des suggestions ?
 
+Wikipedia a une liste de programmes pour Windows [ici](http://en.wikipedia.org/wiki/Tiling_window_manager#Third-party_addons), qui a été reproduite ci-dessous.
+
+- [AquaSnap](http://www.nurgo-software.com/products/aquasnap) — Organise et arrange les fenêtres par "glisser-déposer" ou raccourcis clavier, peut "coller" les fenêtres côte à côte comme des aimants. Prend en charge les configurations multi-écrans
+- [SplitView](http://www.splitview.com/) — Organise les fenêtres en utilisant des boutons de légende et des raccourcis clavier, maximise éventuellement les fenêtres sur une partie de l'écran (commercial)
+- [Mosaico](http://www.soulidstudio.com/) — Organise les fenêtres en utilisant la fonction "drag&go" ou des raccourcis clavier. Sauvegarde la position et la taille des fenêtres dans un instantané et peut restaurer jusqu'à 8 instantanés (commercial)
+- [HashTWM](https://github.com/ZaneA/HashTWM) — Gestionnaire de fenêtres en mosaïque avec mosaïquage automatique
+- [GridMove](http://jgpaiva.dcmembers.com/gridmove.html) — Organise et arrange les fenêtres sur des dispositions sophistiquées avec des raccourcis clavier et la prise en charge multi-écrans
+- [bug.n](https://github.com/fuhsjr00/bug.n) — Parmi d'autres variantes, un gestionnaire de fenêtres en mosaïque dynamique, qui essaie de cloner la fonctionnalité de dwm
+- [Windawesome](https://windawesome.codeplex.com/) — Un gestionnaire de fenêtres dynamique hautement personnalisable écrit en C#
+- [MaxTo](http://maxto.net/) — Organise les fenêtres sur une grille définie par l'utilisateur en interceptant les fenêtres maximisées ou en utilisant des raccourcis clavier. Prend en charge les configurations multi-écrans
+- [Twinsplay](http://www.zinstall.com/products/twinsplay) — Organise les fenêtres en utilisant des raccourcis clavier
+- [Plumb](http://palatialsoftware.com/plumb) — Aligne automatiquement les fenêtres pour vous pendant que vous travaillez
+- [Python-windows-tiler](https://github.com/Tzbob/python-windows-tiler) — Très basique
+- [Divvy](http://mizage.com/divvy/) — (Commercial)
+
+Édit : (5 ans plus tard) Toutes ces années plus tard, cela semble un peu inutile, car Windows 10 a des fonctionnalités très similaires à AquaSnap intégrées, mais j'ai fini par utiliser deux choses principales pour organiser mes fenêtres. **Microsoft Powertoys**, qui a un excellent gestionnaire intégré, et [**Groupy**](https://www.stardock.com/products/groupy/), qui adopte une approche plutôt intelligente de la gestion des fenêtres.
