@@ -40,7 +40,7 @@ Wikipedia has a list of programs for windows [here](http://en.wikipedia.org/wik
 
 Edit: (5 years later) All these years later, it seems a little unnecessary, because Windows 10 has features very similar to AquaSnap built in, but I've ended up using two main things to organize my windows. **Microsoft Powertoys**, which has a great built-in manager, and [**Groupy**](https://www.stardock.com/products/groupy/), which takes a rather clever approach to window management.
 
-===
+---
 
 ### Images 
 ![AquaSnap](https://www.nurgo-software.com/images/aquasnap.png){: width="50%"}
@@ -57,7 +57,7 @@ Edit: (5 years later) All these years later, it seems a little unnecessary, beca
 ![Divvy](http://mizage.com/images/divvy.png){: width="50%"}
 
 
-===
+---
 
 ## French Version
 ### French Version - Meilleur gestionnaire de fenêtres en mosaïque pour Windows?
