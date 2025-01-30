@@ -45,7 +45,7 @@ Source :  Zesardine [Zesardine Bookmarklet](https://youtu.be/9ibhQW2C1-M?feature
 
 - Android :
     - Youtube revanced extended REX – dépendance MicroG (API YT) – Dépendance optionnel  YTDLNis  revancedextended.com
-    - NewPipe (interface différente) https://github.com/TeamNewPipe/NewPipe/releases/download/v0.27.2/NewPipe_v0.27.2.apk
+    - NewPipe (interface différente) [NewPipe-APK](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.27.2/NewPipe_v0.27.2.apk)
 - FireTv,Android TV : 
     - Smarttube (interface différente de YT TV)  [https://kutt.it/stn_stable](https://kutt.it/stn_stable) ou 28544
     - Autres applis : liés à Smarttube : Downloader  -> Gestionnaire de téléchargement ex : Android TV Downloader by AFTVnews – Applications sur Google Play

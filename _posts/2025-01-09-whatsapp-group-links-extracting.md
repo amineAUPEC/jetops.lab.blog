@@ -11,7 +11,7 @@ layout: post
 
 
 ### WhatsApp Group Links Extracting
-- Extracting / Scraping WhatsApp link shared inside a group  via Web.WhatsApp *and storing it into a json file*
+- Extracting / Scraping WhatsApp link shared inside a group via Web.WhatsApp *and storing it into a json file*
     - It extracts all messages that contains link.
 
 ```javascript 
