@@ -1,6 +1,6 @@
 ---
 title: "Liens utiles - Novembre 2024 - 14-11-2024 - Astuce de la semaine - article de la semaine- Weekrecap"
-date: 2024-14-11 16:00:00
+date: 2024-11-14 16:00:00
 Article_file_name: "2024-11-14-astuce-week-article-récapitulatif-oct-nov-2024.md"
 tags: ["week-recap", "dossier", "astuce", "tools", "productivité", "nov", "nov-2024"]
 description: "Astuce de la semaine du 02 Novembre"
@@ -12,6 +12,7 @@ layout: post
 👋 *Bienvenue dans ce récapitulatif de la semaine du 02 Novembre 2024. Voici les liens utiles de la semaine.*  
 AU programme actus, emplois, astuces, projets web, plugins, articles, formations, glossaires, etc.
 
+## Version FR
 ### 🧑‍💼 Emplois actus
 
 [France Travail : le top 20 des formations CPF financées pour les chômeurs](https://www.capital.fr/votre-carriere/france-travail-ex-pole-emploi-le-top-20-des-formations-cpf-financees-pour-les-chomeurs-1502580)
@@ -138,3 +139,128 @@ AU programme actus, emplois, astuces, projets web, plugins, articles, formations
 ### Glossaire Télécoms
 
 [OSS téléphonie](https://www.capterra.fr/glossary/781/oss-operations-support-system)
+
+## EN Version
+### 🧑‍💼 Job News
+
+[France Travail: Top 20 CPF-funded training programs for the unemployed](https://www.capital.fr/votre-carriere/france-travail-ex-pole-emploi-le-top-20-des-formations-cpf-financees-pour-les-chomeurs-1502580)
+
+### 📰 News
+
+[Pedestrian Paris: Good news for the economy](https://www.leparisien.fr/paris-75/paris-pieton-une-bonne-nouvelle-pour-leconomie-22-09-2024-2MXJ46LZHRGHVGQSPDLII6GQM4.php)
+
+### ⚖️ SFAM
+
+[SFAM Trial: Telemarketers trained not to refund customers](https://www.francebleu.fr/infos/faits-divers-justice/proces-de-la-sfam-des-teleconseillers-formes-a-ne-pas-rembourser-les-clients-6953593)
+
+*The SFAM trial reveals that telemarketers were trained to avoid refunding customers. This fraudulent practice led to numerous complaints and a judicial investigation. Discover the details of this case in the article above.*
+
+### 💼 Jobs
+
+[DevOps Engineer at Sofrecom](https://www.sofrecom.com/carrieres/travailler-chez-sofrecom/ingenieur-devops.html)
+
+### 🐉 CDLR
+
+[Dragon's Teeth: What does this marking mean?](https://www.presse-citron.net/les-dents-du-dragon-que-signifie-ce-marquage-qui-va-debarquer-en-france/)
+
+### 🌐 Web Projects (e.g., fzf)
+
+[FZF Documentation](https://fzf.netlify.app/docs/latest/basic)
+
+### 📰 Korben Articles
+
+[Swapy: Drag-and-drop layouts in JavaScript](https://korben.info/swapy-glisser-deposer-layouts-javascript.html)
+
+[SuperImage: Ultimate app to enhance photos with AI](https://korben.info/superimage-application-ultime-ameliorer-photos-ia.html)
+
+### 🤖 ChatGPT Plugin: gpthelper__for_custom-prompt
+
+[Chrome Plugin for Custom Prompts](https://community.openai.com/t/i-make-a-chrome-plugin-to-support-customized-prompts/783774)
+
+### 🖥️ Programming Framework
+
+[Rio: An easy-to-use framework for creating modern websites and applications](https://python.developpez.com/actu/362896/Rio-un-framework-facile-a-utiliser-pour-creer-des-sites-web-et-des-applications-modernes-entierement-bases-sur-Python-sans-avoir-besoin-d-une-seule-ligne-de-HTML-CSS-ou-JavaScript/)
+
+### 🐧 PI Debug
+
+[Raspberry Pi: Avoid unstable network connections](https://www.google.com/search?q=raspberry+pi+avoid+unstable+network+connection+site:raspberrypi.stackexchange.com)
+
+### 🖊️ Tab Samsung S-Pen
+
+[Custom ROM with S Pen compatibility](https://xdaforums.com/t/custom-rom-with-s-pen-compatibility.4625083/)
+
+*I had LineageOS 20 on my Tab S6 Lite P610 and the pen worked very well!*
+
+### 📧 IMAP CLI - Reading Mail from Terminal CLI
+
+[Read Outlook emails from Linux terminal](https://superuser.com/questions/1085861/how-to-read-outlook-mail-from-linux-terminal)
+
+[IMAP CLI Search](https://www.google.com/search?q=mail+imap+cli)
+
+[IMAP TUI Search](https://www.google.com/search?q=imap+tui&oq=imap+tui)
+
+### 🖥️ UI Automation and Jailbreak iOS
+
+[Automate User Interface on Mac](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/AutomatetheUserInterface.html)
+
+[iOS 18 Jailbreak Search](https://www.google.com/search?q=jailbreak+ios+18)
+
+### 🔍 Forensic
+
+[SD Card Forensic Analysis](https://www.google.com/search?q=forensic+analysis+sdcard)
+
+[Forensics Focus: SD Card Forensics](https://www.forensicfocus.com/forums/general/sd-card-forensics/)
+
+### 📺 YouTube API
+
+[YouTube API to fetch all videos on a channel](https://stackoverflow.com/questions/18953499/youtube-api-to-fetch-all-videos-on-a-channel)
+
+[YouTube API Playlist Make](https://www.google.com/search?q=youtube+api+playlist+make&oq=youtube+api+playlist+make)
+
+[YTMusicAPI Documentation](https://ytmusicapi.readthedocs.io/en/stable/)
+
+### 📜 JavaScript Snippets
+
+[JavaScript Snippets](https://onebite.dev/snippet/javascript)
+
+### 👕 Pro T-Shirt
+
+[Qwertee](https://www.qwertee.com/)
+
+### 🌐 Hosting - VPS/WEB Hosting
+
+[O2Switch: Unlimited Hosting](https://www.o2switch.fr/hebergement-illimite/)
+
+### ❓ Quora
+
+[Quora: Being a Kernel Software Engineer](https://www.quora.com/What-is-it-like-to-be-a-kernel-software-engineer)
+
+[Quora: Linux Kernel Development](https://www.quora.com/Is-Linux-Kernel-development-a-good-field-to-be-in-terms-of-an-engineering-career)
+
+### 🎓 Kernel and Graphics Display Training for Embedded Devices
+
+[Bootlin Training: Graphics](https://bootlin.com/training/graphics/)
+
+### Other Tech News
+
+[IKEA: Smart plug to measure energy consumption](https://www.lejournaldelamaison.fr/le-journal-de-la-maison/nouveautes/produits/termine-factures-salees-grace-ikea-prise-connectee-mesure-consommation-denergie-votre-place-493333.html)
+
+[Ultramail: Email sorter](https://ultramail.ai/blog/email-sorter)
+
+[Create a file via touch in a non-existent directory](https://askubuntu.com/questions/1191626/how-to-create-a-new-file-via-touch-if-it-is-in-a-directory-which-doesnt-exist)
+
+- Teams migrate to Slack
+
+### Tech Explanation - IT Glossary - IT Support Levels
+
+[IT Support Levels](https://www.flexsi.fr/2021/03/11/niveaux-support-informatique/)
+
+### Freebox Static IP Management
+
+[Free Assistance: Static IP Management](https://assistance.free.fr/articles/354)
+
+[Set a static IP for RPi at Free](https://pixelboys.fr/definir-une-ip-statique-pour-le-rpi-chez-free-2/)
+
+### Telecom Glossary
+
+[OSS Telephony](https://www.capterra.fr/glossary/781/oss-operations-support-system)
