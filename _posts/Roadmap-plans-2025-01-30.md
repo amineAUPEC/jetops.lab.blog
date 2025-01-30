@@ -1,0 +1,57 @@
+---
+title: Roadmap 30 January 30-01-2025
+tags:
+  - roadmap
+  - jan
+  - jan-2025
+published: true
+date: '2025-01-30'
+---
+Dans cette article : Voici les prévisions sur la période 2025 : Des nouveaux articles arrivent bientôt ainsi que leur publication :
+
+# Roadmap
+
+*   **Ajout article entre février et avril 2025 :**
+    
+    *   **Articles solo :**
+        
+        *   Tools :
+            
+            *   Barrier
+                
+            *   fzf : fuzzy finder
+                
+            *   Charm suite : Gum, bubblegum scriptings Beautify scripts
+                
+        *   Cloud : Azure
+            
+        *   Raccourci : Edge shortcuts : Raccourci clavier sur Edge
+            
+        *   Infographie :
+            
+            *   Napkin.ai passer du texte à un visuel comme avec un SmartArt de Powerpoint
+                
+        *   Scripting :
+            
+            *   Youtube comments : Récupération des commentaires les plus likés sur une Vidéo Youtube afin de se constituer un spreadsheet.
+                
+            
+    *   **Article recap :**
+        
+        *   19-01-2025
+            
+    *   **Sideprojects** :
+        
+        *   °°°°°°
+            
+        *   FFmpeg projects
+            
+        *   music-jukebox album-jukebox
+            
+        *   Carrot-extension -> Améliorer : _Elle remplace les images par des carottes sur les sites spécifiées._
+            
+
+### Démo de Napkin.ai
+
+  
+![Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/assets/v5/gallery/row_2/row_2_04.svg)
