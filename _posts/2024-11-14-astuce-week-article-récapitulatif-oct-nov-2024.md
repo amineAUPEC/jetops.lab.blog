@@ -3,7 +3,7 @@ title: "Liens utiles - Novembre 2024 - 14-11-2024 - Astuce de la semaine - artic
 date: 2024-11-14 16:00:00
 Article_file_name: "2024-11-14-astuce-week-article-récapitulatif-oct-nov-2024.md"
 tags: ["week-recap", "dossier", "astuce", "tools", "productivité", "nov", "nov-2024"]
-description: "Astuce de la semaine du 02 Novembre"
+description: "Astuce de la semaine du 14 Novembre"
 draft: false
 lang: fr
 layout: post
