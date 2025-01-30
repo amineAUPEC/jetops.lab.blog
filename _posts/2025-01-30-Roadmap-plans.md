@@ -36,10 +36,17 @@ Dans cet article : Voici les prévisions sur la période 2025 : Des nouveaux art
             
             *   Youtube comments : Récupération des commentaires les plus likés sur une Vidéo Youtube afin de se constituer un spreadsheet.
                 
-            
+      [](url)      
     *   **Article recap :**
-        
+        *   25-12-2024-extended
+        *   Chromecast display in Iframes for multiple tabs  25-12-2024       
         *   19-01-2025
+        *   24-01-2025 (à détailler)
+        *   25-01-2025
+        *   30-01-2025
+        *   Jekyll tips 
+
+        
             
     *   **Sideprojects** :
         
