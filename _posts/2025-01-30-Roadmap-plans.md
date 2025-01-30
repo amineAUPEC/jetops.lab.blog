@@ -7,7 +7,7 @@ tags:
 published: true
 date: '2025-01-30'
 ---
-Dans cette article : Voici les prévisions sur la période 2025 : Des nouveaux articles arrivent bientôt ainsi que leur publication :
+Dans cet article : Voici les prévisions sur la période 2025 : Des nouveaux articles arrivent bientôt ainsi que leur publication :
 
 # Roadmap
 
@@ -22,6 +22,7 @@ Dans cette article : Voici les prévisions sur la période 2025 : Des nouveaux a
             *   fzf : fuzzy finder
                 
             *   Charm suite : Gum, bubblegum scriptings Beautify scripts
+            *   Jekyllpad : [Jelyllpad](https://www.jekyllpad.com/)
                 
         *   Cloud : Azure
             
