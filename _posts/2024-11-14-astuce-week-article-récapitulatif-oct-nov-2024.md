@@ -90,28 +90,25 @@ AU programme actus, emplois, astuces, projets web, plugins, articles, formations
 
 
 
-### Javascript snippets
+### 📜 Javascript snippets
 
 [Snippets JavaScript](https://onebite.dev/snippet/javascript)
 
-### t-shirt pro
+### 👕 t-shirt pro
 
 [Qwertee](https://www.qwertee.com/)
 
-
-### Hébergeur - Hébergeur VPS/WEB
+### 🌐 Hébergeur - Hébergeur VPS/WEB
 
 [O2Switch : hébergement illimité](https://www.o2switch.fr/hebergement-illimite/)
 
-
-### Quora
+### ❓ Quora
 
 [Quora : être un ingénieur logiciel kernel](https://www.quora.com/What-is-it-like-to-be-a-kernel-software-engineer)
 
 [Quora : développement du kernel Linux](https://www.quora.com/Is-Linux-Kernel-development-a-good-field-to-be-in-terms-of-an-engineering-career)
 
-
-### Formation Kernel and Graphics display like for embedded devices
+### 🎓 Formation Kernel and Graphics display like for embedded devices
 
 [Formation Bootlin : graphics](https://bootlin.com/training/graphics/)
 
