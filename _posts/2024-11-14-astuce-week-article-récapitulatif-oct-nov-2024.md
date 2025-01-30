@@ -3,80 +3,66 @@ title: "Liens utiles - Novembre 2024 - 14-11-2024 - Astuce de la semaine - artic
 date: 2024-14-11 16:00:00
 Article_file_name: "2024-11-14-astuce-week-article-récapitulatif-oct-nov-2024.md"
 tags: ["week-recap", "dossier", "astuce", "tools", "productivité", "nov", "nov-2024"]
-description: "Astuce de la semaine du 02 Novembre "
+description: "Astuce de la semaine du 02 Novembre"
 draft: false
 lang: fr
 layout: post
 ---
 
-
-*Bienvenue dans ce récapitulatif de la semaine du 02 Novembre 2024. Voici les liens utiles de la semaine.*
+👋 *Bienvenue dans ce récapitulatif de la semaine du 02 Novembre 2024. Voici les liens utiles de la semaine.*  
 AU programme actus, emplois, astuces, projets web, plugins, articles, formations, glossaires, etc.
 
-### Emplois actus
+### 🧑‍💼 Emplois actus
 
 [France Travail : le top 20 des formations CPF financées pour les chômeurs](https://www.capital.fr/votre-carriere/france-travail-ex-pole-emploi-le-top-20-des-formations-cpf-financees-pour-les-chomeurs-1502580)
 
-
-### Actus
+### 📰 Actus
 
 [Paris piéton : une bonne nouvelle pour l'économie](https://www.leparisien.fr/paris-75/paris-pieton-une-bonne-nouvelle-pour-leconomie-22-09-2024-2MXJ46LZHRGHVGQSPDLII6GQM4.php)
 
-
-### SFAM
+### ⚖️ SFAM
 
 [Procès de la SFAM : des téléconseillers formés à ne pas rembourser les clients](https://www.francebleu.fr/infos/faits-divers-justice/proces-de-la-sfam-des-teleconseillers-formes-a-ne-pas-rembourser-les-clients-6953593)
 
+*Le procès de la SFAM révèle que des téléconseillers étaient formés pour éviter de rembourser les clients. Cette pratique frauduleuse a conduit à de nombreuses plaintes et à une enquête judiciaire. Découvrez les détails de cette affaire dans l'article ci-dessus.*
 
-### Emplois
+### 💼 Emplois
 
 [Ingénieur DevOps chez Sofrecom](https://www.sofrecom.com/carrieres/travailler-chez-sofrecom/ingenieur-devops.html)
 
-
-### CDLR
+### 🐉 CDLR
 
 [Les dents du dragon : que signifie ce marquage ?](https://www.presse-citron.net/les-dents-du-dragon-que-signifie-ce-marquage-qui-va-debarquer-en-france/)
 
-### Projets web (Ex : fzf)
+### 🌐 Projets web (Ex : fzf)
 
 [Documentation FZF](https://fzf.netlify.app/docs/latest/basic)
 
-
-### Korben articles
+### 📰 Korben articles
 
 [Swapy : glisser-déposer layouts en JavaScript](https://korben.info/swapy-glisser-deposer-layouts-javascript.html)
 
-
 [SuperImage : application ultime pour améliorer les photos avec IA](https://korben.info/superimage-application-ultime-ameliorer-photos-ia.html)
 
-
-### Chatgpt plugin : gpthelper__for_custom-prompt
+### 🤖 Chatgpt plugin : gpthelper__for_custom-prompt
 
 [Plugin Chrome pour prompts personnalisés](https://community.openai.com/t/i-make-a-chrome-plugin-to-support-customized-prompts/783774)
 
-
-
-### Progra framework
+### 🖥️ Progra framework
 
 [Rio : un framework facile à utiliser pour créer des sites web et des applications modernes](https://python.developpez.com/actu/362896/Rio-un-framework-facile-a-utiliser-pour-creer-des-sites-web-et-des-applications-modernes-entierement-bases-sur-Python-sans-avoir-besoin-d-une-seule-ligne-de-HTML-CSS-ou-JavaScript/)
 
-
-
-
-
-### PI debug
+### 🐧 PI debug
 
 [Raspberry Pi : éviter les connexions réseau instables](https://www.google.com/search?q=raspberry+pi+avoid+unstable+network+connection+site:raspberrypi.stackexchange.com)
 
-
-### Tab Samsung S-pen
+### 🖊️ Tab Samsung S-pen
 
 [Custom ROM avec compatibilité S Pen](https://xdaforums.com/t/custom-rom-with-s-pen-compatibility.4625083/)  
 
 *I had LineageOS 20 on my tab s6 lite P610 and the pen worked very well!*
 
-
-### IMAP CLI - Reading mail from Terminal CLI
+### 📧 IMAP CLI - Reading mail from Terminal CLI
 
 [Lire les mails Outlook depuis le terminal Linux](https://superuser.com/questions/1085861/how-to-read-outlook-mail-from-linux-terminal)
 
@@ -84,27 +70,22 @@ AU programme actus, emplois, astuces, projets web, plugins, articles, formations
 
 [Recherche IMAP TUI](https://www.google.com/search?q=imap+tui&oq=imap+tui)
 
-
-### UI automation and jailbreak iOS
+### 🖥️ UI automation and jailbreak iOS
 
 [Automatiser l'interface utilisateur sur Mac](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/AutomatetheUserInterface.html)
 
 [Recherche jailbreak iOS 18](https://www.google.com/search?q=jailbreak+ios+18)
 
-
-### Forensic
+### 🔍 Forensic
 
 [Analyse forensique de carte SD](https://www.google.com/search?q=forensic+analysis+sdcard)
 
 [Forensics Focus : SD card forensics](https://www.forensicfocus.com/forums/general/sd-card-forensics/)
 
-
-### Youtube API
+### 📺 Youtube API
 
 [YouTube API pour récupérer toutes les vidéos d'une chaîne](https://stackoverflow.com/questions/18953499/youtube-api-to-fetch-all-videos-on-a-channel)
-
-[Recherche YouTube API playlist](https://www.google.com/search?q=youtube+api+playlist+make&oq=youtube+api+playlist+make)
-
+[YouTube API playlist make](https://www.google.com/search?q=youtube+api+playlist+make&oq=youtube+api+playlist+make)
 [Documentation YTMusicAPI](https://ytmusicapi.readthedocs.io/en/stable/)
 
 
