@@ -20,6 +20,7 @@ In this article, we will explore different methods to add colors to your text us
 ```html
 <span style="color:blue">some *blue* text</span>.
 ```
+<span style="color:blue">some *blue* text</span>.
 
 ### Explanations in English
 

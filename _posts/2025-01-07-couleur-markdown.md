@@ -22,6 +22,7 @@ Dans cet article, nous allons explorer différentes méthodes pour ajouter des c
 ```html
 <span style="color:blue">some *blue* text</span>.
 ```
+<span style="color:blue">some *blue* text</span>.
 
 ### Explications en anglais
 
