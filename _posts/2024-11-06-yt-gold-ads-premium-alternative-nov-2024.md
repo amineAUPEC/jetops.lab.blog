@@ -27,7 +27,7 @@ javascript:  if(document.getElementsByClassName("video-ads")[0].innerHTML !=="")
 
 
 
-<a style="border: 1px solid #CCCCCC; background: #FAFAFA; padding: 4px; border-radius: 4px;" href="javascript:void%20function(){javascript:if(%22%22!==document.getElementsByClassName(%22video-ads%22)[0].innerHTML){for(var%20a=!1,b=0;b%3Cdocument.getElementsByClassName(%22ytp-ad-overlay-close-button%22).length;b++)document.getElementsByClassName(%22ytp-ad-overlay-close-button%22)[b].click(),a=!0;!1===a%26%26(document.getElementsByClassName(%22html5-main-video%22)[0].currentTime=document.getElementsByClassName(%22html5-main-video%22)[0].duration,document.getElementsByClassName(%22ytp-ad-skip-button%22)[0].click())}}();">Export KillYT</a> &lt;- drag this to your bookmarks toolbar</p>
+<p><a style="border: 1px solid #CCCCCC; background: #FAFAFA; padding: 4px; border-radius: 4px;" href="javascript:void%20function(){javascript:if(%22%22!==document.getElementsByClassName(%22video-ads%22)[0].innerHTML){for(var%20a=!1,b=0;b%3Cdocument.getElementsByClassName(%22ytp-ad-overlay-close-button%22).length;b++)document.getElementsByClassName(%22ytp-ad-overlay-close-button%22)[b].click(),a=!0;!1===a%26%26(document.getElementsByClassName(%22html5-main-video%22)[0].currentTime=document.getElementsByClassName(%22html5-main-video%22)[0].duration,document.getElementsByClassName(%22ytp-ad-skip-button%22)[0].click())}}();">Export KillYT</a> &lt;- drag this to your bookmarks toolbar</p>
 
 
 
